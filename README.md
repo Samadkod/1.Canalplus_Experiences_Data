@@ -8,8 +8,6 @@
 - 👉 *Vous pouvez consulter mon [CV ici](https://github.com/Samadkod/Mon-portfolio_data/blob/main/CV_2024-10-16_Samadou_KODON.pdf).*
 - 📧 *Vous pouvez m'écrire sur: samadou.kodon@gmail.com*
 - 📫 *Retrouvez-moi sur: https://www.linkedin.com/in/skodon/*
-  
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
 
 
