@@ -1,5 +1,5 @@
 # Bonjour, je suis Samadou KODON ! Bienvenue sur mon portfolio GitHub ! 👋
-![Ma photo](https://avatars.githubusercontent.com/u/121679170?v=4)
+
 - 🔭 **Data Analyst & Scientist |Chargé 'études statistiques|Python | SQL | Data Visualisation & Machine Learning**
 - 🎓 *Major de promotion - Big Data & Data Science avec la mention très bien à l'Université de Montpellier*
 - 🎓 *Diplômé d'un master en Quantification et Analyse Economique à l'université de Franche-Comté*
