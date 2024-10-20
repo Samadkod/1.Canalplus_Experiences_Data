@@ -48,20 +48,21 @@ comprendre le comportement des abonnés sur les promotion et Prédiction de chur
 ## Problematique et Objectif de l'analyse :
 Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn, c’est essayer de comprendre pourquoi un abonné reste fidèle à un service ou décide au contraire de le quitter. Les raisons qui poussent un abonné à “churner” dépendent en grande partie de l’offre proposée par le service, ainsi les identifier permet d’améliorer celui-ci et finalement de réduire le churn.
 
-## Compétences:
-  - [x]  Maîtrise des ETL et des jointures SQL complexes
+ ## Compétences :
+  - [x] Maîtrise des ETL et des jointures SQL complexes
   - [x] Segmentation des utilisateurs basée sur la consommation de contenu
-  - [x] Synthétiser des résultats à destination des metiers
+  - [x] Synthèse des résultats à destination des métiers
   - [x] Analyse descriptive : comprendre le comportement des abonnés à l’offre
-            - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
-  - [x] Revue de littérature : comment modéliser le churn ?
-  - [x] Mise en place des modèles de prédiction du churn
-            - [x] Choix des variables pour les modèles de machine learning
-            - [x] Sélection de variables pour la régression logistique
-  - [x] Générer des graphiques adaptés aux types de données
+    - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
+  - [x] Revue de littérature : modélisation du churn
+  - [x] Mise en place de modèles de prédiction du churn
+    - [x] Choix des variables pour les modèles de machine learning
+    - [x] Sélection de variables pour la régression logistique
+  - [x] Génération de graphiques adaptés aux types de données
 
-## Outils utilisés:
-SQL, Excel, Python,PowerPoint.
+## Outils utilisés :
+SQL, Excel, Python, PowerPoint
+
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien:https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt
