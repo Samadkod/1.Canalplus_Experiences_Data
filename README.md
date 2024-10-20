@@ -10,10 +10,9 @@
           
 
 
-# [Segmentation des abonnées afin d'ajuster le bussiness et personnaliser les actions marketing](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+# [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 ## Problématique: 
-Segmentation des abonnées afin de personnaliser les actions marketing de canal+.
-
+SEGMENTATION DES ABONNES VISIONNANT LA LIGUE 1 DANS LES DROM
 
 <p align = "center">
  <img width="1000" height="300" src = "https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg"/>
