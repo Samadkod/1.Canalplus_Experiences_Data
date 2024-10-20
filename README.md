@@ -16,7 +16,7 @@ Segmentation des abonnées afin de personnaliser les actions marketing de canal+
 
 
 <p align = "center">
- <img width="1000" height="300" src = "https://thumbs.dreamstime.com/z/word-cloud-market-segmentation-related-items-106263520.jpg?ct=jpeg"/>
+ <img width="1000" height="300" src = "https://thumbs.dreamstime.com/z/marketing-word-cloud-18139301.jpg?ct=jpeg"/>
 </p>
 
 ## Objectif: 
