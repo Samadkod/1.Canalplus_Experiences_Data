@@ -10,9 +10,9 @@
           
 
 
-# [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
+# [Faites une analyse des ventes pour un e-commerce](https://media.licdn.com/dms/image/v2/D4E12AQF147V2SMyAYA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696951024094?e=1735171200&v=beta&t=7yK2TY1NuPs0S6Sd_i2aNTR7eh8Mm9X_F0B4Fn5SI6s)
 ## Problématique: 
-Travailler sur le rapport mensuel des actions marketing de mon équipe.
+Segmentation des abonnées afin de personnaliser les actions marketing de canal+.
 
 
 <p align = "center">
