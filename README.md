@@ -16,7 +16,7 @@ Segmentation des abonnées afin de personnaliser les actions marketing de canal+
 
 
 <p align = "center">
- <img width="1000" height="300" src = "https://www.shutterstock.com/fr/image-photo/customer-segmentation-models-concept-segments-colorful-2220539983/>
+ <img width="1000" height="300" src = "https://media.istockphoto.com/id/515443548/fr/photo/formation-du-gouvernement.jpg?s=1024x1024&w=is&k=20&c=FF-l5y6_QZPxBOxEJLQk8GCjbiKXGodcgzub78rWYiY=/>
 </p>
 
 ## Objectif: 
