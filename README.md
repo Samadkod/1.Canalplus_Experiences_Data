@@ -35,7 +35,7 @@ L'objectif de cette analyse est de comprendre la performance des matchs de la Li
 SQL, Excel, PowerPoint.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf
+> Vous pouvez consulter les ressources de ce projet via ce lien:https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt
 
 
 
