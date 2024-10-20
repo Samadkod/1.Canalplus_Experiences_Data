@@ -16,7 +16,7 @@ Segmentation des abonnées afin de personnaliser les actions marketing de canal+
 
 
 <p align = "center">
- <img width="1000" height="300" src = "https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl="/>
+ <img width="1000" height="300" src = "https://media.istockphoto.com/id/515443548/fr/photo/formation-du-gouvernement.jpg?s=1024x1024&w=is&k=20&c=FF-l5y6_QZPxBOxEJLQk8GCjbiKXGodcgzub78rWYiY="/>
 </p>
 
 ## Objectif: 
