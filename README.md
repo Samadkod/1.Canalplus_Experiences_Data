@@ -10,24 +10,17 @@
           
 
 
-## Mes Projets clés :
-Compétences techniques :
-Langages : Python, SAS, R, SQL
-Outils de visualisation : Power BI, Tableau, Dataiku, Npaw
-Machine Learning : Modélisation prédictive, Text mining, Web scraping
-Automatisation des processus : Excel (VBA), Dataiku
-Projets clés :
-Prédiction du churn - Canal+ International
-Technologies utilisées : Python, SQL, Dataiku, Power BI
+# Compétences techniques :
+- Langages : Python, SAS, R, SQL
+- Outils de visualisation : Power BI, Tableau, Dataiku, Npaw
+- Machine Learning : Modélisation prédictive, Text mining, Web scraping
+- Automatisation des processus : Excel (VBA), Dataiku
+# Projets clés :
+* Prédiction du churn - Canal+ International
 
 Projet de prédiction des abonnés à risque de désabonnement chez Canal+. J'ai développé des modèles prédictifs pour identifier les abonnés à risque en fonction de leur consommation TV. En automatisant les rapports hebdomadaires via Dataiku, j'ai permis un suivi précis des performances des abonnés à myCANAL.
 
-Prédiction du churn - Canal+
-
-Description :
-Dans ce projet, j'ai développé des modèles prédictifs pour identifier les abonnés à risque de désabonnement pour Canal+. L'objectif était de segmenter les abonnés en fonction de leur consommation et de fournir des insights pour optimiser les stratégies marketing.
-
-Technologie :
+# Technologie :
 Python pour la création des modèles de prédiction
 SQL pour extraire et manipuler les données
 Power BI pour la visualisation des performances
