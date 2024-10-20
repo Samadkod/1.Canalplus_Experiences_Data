@@ -16,7 +16,7 @@ Segmentation des abonnées afin de personnaliser les actions marketing de canal+
 
 
 <p align = "center">
- <img width="1000" height="300" src = "https://media.istockphoto.com/id/515443548/fr/photo/formation-du-gouvernement.jpg?s=1024x1024&w=is&k=20&c=FF-l5y6_QZPxBOxEJLQk8GCjbiKXGodcgzub78rWYiY=/>
+ <img width="1000" height="300" src = "https://media.licdn.com/dms/image/D4E12AQF147V2SMyAYA/article-cover_image-shrink_600_2000/0/1696951024094?e=2147483647&v=beta&t=xuxId7E5ByYY-e9LM_6ojAXielnObOgPh1ZTy9wYcos/>
 </p>
 
 ## Objectif: 
