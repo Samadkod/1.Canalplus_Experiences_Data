@@ -10,7 +10,7 @@
           
 
 
-# [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
+# [Segmentation des abonnées afin d'ajuster le bussiness et personnaliser les actions marketing](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
 Segmentation des abonnées afin de personnaliser les actions marketing de canal+.
 
