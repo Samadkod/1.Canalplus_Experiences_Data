@@ -10,7 +10,7 @@
           
 
 
-# [Segmentation des abonnées afin d'ajuster le bussiness et personnaliser les actions marketing](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
+# [Segmentation des abonnées afin d'ajuster le bussiness et personnaliser les actions marketing](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 ## Problématique: 
 Segmentation des abonnées afin de personnaliser les actions marketing de canal+.
 
@@ -31,7 +31,7 @@ L'objectif de cette analyse est de comprendre la performance des matchs de la Li
 Excel, PowerPoint.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
+> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf
 
 
 
