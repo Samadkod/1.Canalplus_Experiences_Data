@@ -6,7 +6,7 @@
 - 🔍 **Je suis actuellement à la recherche d'un poste en CDI en tant que Data Analyst ou Chargé d'études statistiques en France.**
 - 👉 *Vous pouvez consulter mon [CV ici](https://github.com/Samadkod/Mon-portfolio_data/blob/main/CV_2024-10-16_Samadou_KODON.pdf).*
 - 📧 *Vous pouvez m'écrire sur: samadou.kodon@gmail.com*
-- 📫 **Retrouvez-moi sur: https://www.linkedin.com/in/skodon/**
+- 📫 *Retrouvez-moi sur: https://www.linkedin.com/in/skodon/*
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
