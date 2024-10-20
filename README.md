@@ -19,9 +19,8 @@ Segmentation des abonnées afin de personnaliser les actions marketing de canal+
  <img width="1000" height="300" src = "https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg"/>
 </p>
 
-## Objectif: 
-* Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric) ;
-* Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ).
+## Objectif de l'analyse :
+L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outres-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit afin de comprendre l'importance et l'impact que la perte de ce droit peu avoir sur le churn et le downgrade de nos abonnés (passer d'une offre premium à une offre classique).
 
 ## Compétences:
   - [x] Générer des graphiques adaptés aux types de données
