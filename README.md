@@ -10,6 +10,16 @@
           
 
 
+# [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
+## Problématique: 
+Travailler sur le rapport mensuel des actions marketing de mon équipe.
+
+
+<p align = "center">
+ <img width="1000" height="300" src = "https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl="/>
+</p>
+
+
 # Compétences techniques :
 - Langages : Python, SAS, R, SQL
 - Outils de visualisation : Power BI, Tableau, Dataiku, Npaw
