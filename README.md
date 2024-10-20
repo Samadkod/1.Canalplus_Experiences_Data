@@ -56,8 +56,8 @@ Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indi
             - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
   - [x] Revue de littérature : comment modéliser le churn ?
   - [x] Mise en place des modèles de prédiction du churn
-            * [x] Choix des variables pour les modèles de machine learning
-            * [x] Sélection de variables pour la régression logistique
+            - [x] Choix des variables pour les modèles de machine learning
+            - [x] Sélection de variables pour la régression logistique
   - [x] Générer des graphiques adaptés aux types de données
 
 ## Outils utilisés:
