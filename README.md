@@ -15,7 +15,7 @@
 SEGMENTATION DES ABONNES VISIONNANT LA LIGUE 1 DANS LES DROM
 
 <p align = "center">
- <img width="1000" height="300" src = "https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg"/>
+ <img width="1000" height="300" src = "https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg"/ style="height:150px">
 </p>
 
 ## Objectif de l'analyse :
@@ -24,7 +24,7 @@ L'objectif de cette analyse est de comprendre la performance des matchs de la Li
 ## Compétences:
   - [x]  Maîtrise des CTE (WITH) et des jointures SQL complexes
   - [x] Segmentation des utilisateurs basée sur la consommation de contenu
-  - [x] Synthétiser des résultats à destination d'un client
+  - [x] Synthétiser des résultats à destination des metiers
   - [x] Optimisation des requêtes avec ROW_NUMBER() et filtrage efficace
   - [x] Utilisation des fonctions d'agrégation et des fonctions conditionnelles
   - [x] Calculs précis et transformations de données
