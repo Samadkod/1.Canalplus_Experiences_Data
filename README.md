@@ -1,4 +1,5 @@
 # Salut, je suis Samadou KODON ! 👋
+![Ma photo](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 - 🔭 **Data Analyst & Scientist |Chargé 'études statistiques|Python | SQL | Data Visualisation & Machine Learning**
 - 🎓 *Major de promotion - Big Data & Data Science avec la mention très bien à l'Université de Montpellier ( Niveau BAC+5)*
