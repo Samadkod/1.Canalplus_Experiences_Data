@@ -15,7 +15,7 @@
 SEGMENTATION DES ABONNES VISIONNANT LA LIGUE 1 DANS LES DROM
 
 <p align = "center">
- <img width="1000" height="300" src = "https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg"/ style="height:50px">
+ <img width="1000" height="300" src = "https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg"/ style="height:250px">
 </p>
 
 ## Objectif de l'analyse :
