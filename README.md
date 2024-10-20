@@ -23,12 +23,16 @@ Segmentation des abonnées afin de personnaliser les actions marketing de canal+
 L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outres-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit afin de comprendre l'importance et l'impact que la perte de ce droit peu avoir sur le churn et le downgrade de nos abonnés (passer d'une offre premium à une offre classique).
 
 ## Compétences:
-  - [x] Générer des graphiques adaptés aux types de données
-  - [x] Interpréter les informations provenant d'un dashboard
+  - [x]  Maîtrise des CTE (WITH) et des jointures SQL complexes
+  - [x] Segmentation des utilisateurs basée sur la consommation de contenu
   - [x] Synthétiser des résultats à destination d'un client
+  - [x] Optimisation des requêtes avec ROW_NUMBER() et filtrage efficace
+  - [x] Utilisation des fonctions d'agrégation et des fonctions conditionnelles
+  - [x] Calculs précis et transformations de données
+  - [x] Générer des graphiques adaptés aux types de données
 
 ## Outils utilisés:
-Excel, PowerPoint.
+SQL, Excel, PowerPoint.
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf
