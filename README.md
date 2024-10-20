@@ -37,6 +37,38 @@ SQL, Excel, PowerPoint.
 > Vous pouvez consulter les ressources de ce projet via ce lien:https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt
 
 
+# [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+## Problématique: 
+comprendre le comportement des abonnés sur les promotion et Prédiction de churn selon leur consommation TV
+
+<p align = "center">
+ <img width="1000" height="300" src = "https://dezyre.gumlet.io/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png?w=800&dpr=1.0"/ style="height:300px">
+</p>
+
+## Problematique et Objectif de l'analyse :
+Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn, c’est essayer de comprendre pourquoi un abonné reste fidèle à un service ou décide au contraire de le quitter. Les raisons qui poussent un abonné à “churner” dépendent en grande partie de l’offre proposée par le service, ainsi les identifier permet d’améliorer celui-ci et finalement de réduire le churn.
+
+## Compétences:
+  - [x]  Maîtrise des ETL et des jointures SQL complexes
+  - [x] Segmentation des utilisateurs basée sur la consommation de contenu
+  - [x] Synthétiser des résultats à destination des metiers
+  - [x] Analyse descriptive : comprendre le comportement des abonnés à l’offre
+            - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
+  - [x] Revue de littérature : comment modéliser le churn ?
+  - [ ] Mise en place des modèles de prédiction du churn
+            - [ ] Choix des variables pour les modèles de machine learning
+            - [ ] Sélection de variables pour la régression logistique
+  - [x] Générer des graphiques adaptés aux types de données
+
+## Outils utilisés:
+SQL, Excel, Python,PowerPoint.
+
+> [!NOTE]
+> Vous pouvez consulter les ressources de ce projet via ce lien:https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt
+
+
+
+
 
 # Compétences techniques :
 - Langages : Python, SAS, R, SQL
