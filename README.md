@@ -144,3 +144,4 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 <!-- Icône LinkedIn pour le mode sombre -->
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/skodon/#gh-dark-mode-only)
+
