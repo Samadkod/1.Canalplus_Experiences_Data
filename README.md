@@ -10,10 +10,11 @@
 - 📧 Contact : samadou.kodon@gmail.com
 - 📫 LinkedIn : [Samadou Kodon](https://www.linkedin.com/in/skodon/)
 
-  <p align='left'>
-  <a href="https://www.linkedin.com/in/e-michel/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:singh_kshitij@yahoo.com"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/envelope-alt.png?raw=true"></a>
+<p align='left'>
+  <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="./img/linkedin-light.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="./img/envelope-alt.png" alt="Email"></a>
 </p>
+
 
 # Analyse de Performance des Contenus Médias
 
