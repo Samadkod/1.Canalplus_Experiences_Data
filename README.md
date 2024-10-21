@@ -19,8 +19,6 @@
 
 # Projets professionnels
 
-- j'ai réalisé ces projets dans le cadre de mon rôle de **Data Analyst chez Canal+ International et chef de projet data à l'univiersté de Montpellier** . Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus des medias, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
-
 ---
 ### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
