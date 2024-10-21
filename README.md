@@ -11,9 +11,10 @@
 - 📫 LinkedIn : [Samadou Kodon](https://www.linkedin.com/in/skodon/)
 
 <p align='left'>
-  <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="./img/linkedin-light.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="./img/envelope-alt.png" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
+
 
 
 # Analyse de Performance des Contenus Médias
