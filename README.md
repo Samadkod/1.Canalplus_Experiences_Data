@@ -13,7 +13,7 @@
 Ce portfolio regroupe plusieurs analyses allant de la segmentation des abonnées, des études sur la performance de contenus, de la dataviz, jusqu'à la prediction via des modeles de Machine Learning. j'ai réalisées ces projets dans le cadre de mon rôle de **Data Analyst chez Canal+ International**. Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus des medias, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
 
 ---
-# [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+# 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 ## Problématique : 
 **Segmentation des abonnés visionnant la Ligue 1 dans les DROM.**
@@ -42,7 +42,7 @@ SQL, Excel, PowerPoint
 
 ---
 
-# [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+# 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 ## Problématique : 
 **Comprendre le comportement des abonnés et prédire le churn selon leur consommation TV.**
@@ -73,7 +73,7 @@ SQL, Excel, Python, PowerPoint
 
 ---
 
-## 1. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
+## 3. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
 L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
 <p align="center">
   <img src="https://image.over-blog.com/njENmfOTRObRazbfCP8sfwn6DOA=/filters:no_upscale()/image%2F2132870%2F20230920%2Fob_ba7f44_lb190923-06.JPG" width="1000" height="300" />
@@ -90,4 +90,52 @@ L'objectif de ce projet était d'évaluer la performance des émissions de la **
 SQL via Snowflake, Excel, Python, PowerPoint
 
 
+---
 
+## 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
+Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
+
+- **Méthodologie** :
+  - Analyse de la **part d'audience** et du **taux de reach** des chaînes islamiques via des requêtes **SQL**.
+  
+- **Résultats clés** :
+  - Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
+  - Insight sur les habitudes de consommation pendant les saisons religieuses.
+
+- **Compétences développées** :
+  - Analyse saisonnière et dynamique des marchés africains.
+  
+---
+
+## 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
+Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience.
+
+<p align="center">
+  <img src="https://images.frandroid.com/wp-content/uploads/2022/12/canal-disney-paramount-1.jpg" width="1000" height="300" />
+</p>
+
+- **Compétences développées** :
+  - [x] Identification des meilleurs contenus par plateforme, permettant de mieux comprendre les préférences des utilisateurs.
+    - [x] Navigation dans des systèmes de données complexes.
+    - [x] Capacité à croiser des données de multiples plateformes.
+
+---
+
+## 6. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
+Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
+
+<p align="center">
+  <img src="https://thumb.canalplus.pro/bran/unsafe/460x259/filters:quality(80)/image/65534d24a663c/uploads/media/myCANAL_16x9_Logotype_MEA_1920x1080_label.jpg" width="1000" height="300" />
+</p>
+
+### Compétences :
+  - [x] Analyse de l'impact des contenus originaux sur le comportement des consommateurs.
+    - [x] Mesure de l'effet des créations originales sur l'engagement des abonnés dans les DROM.
+    - [x] Mise en avant du **taux de reach** par contenu original.
+  - [x] Génération de graphiques adaptés aux types de données
+  - [x] Synthèse des résultats à destination des métiers
+
+### Outils utilisés :
+SQL via Snowflake, Excel, Python, PowerPoint
+
+---
