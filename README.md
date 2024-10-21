@@ -67,3 +67,43 @@ SQL, Excel, Python, PowerPoint
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
+
+
+
+# Analyse de Performance des Contenus Médias
+
+Ce portfolio regroupe plusieurs analyses de performance réalisées dans le cadre de mon rôle de **Data Analyst**. Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus médiatiques, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
+
+---
+
+## 1. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
+L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
+<p align="center">
+  <img src="https://image.over-blog.com/njENmfOTRObRazbfCP8sfwn6DOA=/filters:no_upscale()/image%2F2132870%2F20230920%2Fob_ba7f44_lb190923-06.JPG" width="1000" height="300" />
+</p>
+
+- **Méthodologie** :
+  - Extraction de données via des requêtes **SQL** sur **Snowflake**.
+  - Nettoyage approfondi des données.
+  - Visualisations des résultats en **Python** pour faciliter l'interprétation.
+  
+- **Résultats clés** :
+  - Calcul du **taux de reach global** et par formules d'abonnement, pays et chaînes.
+  - Identification des forces et axes d'amélioration pour les futures stratégies de diffusion.
+
+- **Compétences développées** :
+  - Manipulation de grandes bases de données.
+  - Visualisation de données complexes.
+
+---
+  
+- **Résultats clés** :
+  - Mesure de l'effet des créations originales sur l'engagement des abonnés dans les DROM.
+  
+- **Compétences développées** :
+  - Analyse de l'impact des contenus originaux sur le comportement des consommateurs.
+  
+---
+
+
+
