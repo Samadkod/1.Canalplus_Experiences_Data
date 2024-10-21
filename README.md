@@ -162,13 +162,13 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Mention :** Mention excellente obtenue pour ce projet.
    - **Compétences acquises** : Régression GLM, prédiction, nettoyage des données, modélisation avancée.
    - **Outils utilisés** : Python, SQL, Tableau
-   - **Résultat** : Amélioration de la rentabilité de X% grâce à une meilleure segmentation des profils à risque.
-
+   
 ---
 
 ### 2. [Dataviz sur l'octroi de crédit bancaire par région](#)
    - **Description** : Visualisation de l’octroi de crédit bancaire selon les régions pour comprendre les disparités géographiques.
    - **Compétences acquises** : Data cleaning, analyse descriptive, visualisation des données.
+   -  - **Mention :** Mention Bien obtenue pour ce projet.
    - **Outils utilisés** : Python, Tableau, Power BI
    - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
 
