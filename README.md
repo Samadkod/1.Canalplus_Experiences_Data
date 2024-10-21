@@ -152,6 +152,37 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
+
 ---
+
+# Projets académiques
+
+### 1. [Optimisation des tarifs en assurance auto](#)
+   - **Description** : Modélisation prédictive pour optimiser les tarifs des assurances via des techniques de machine learning.
+   - **Mention :** Mention excellente obtenue pour ce projet.
+   - **Compétences acquises** : Régression GLM, prédiction, nettoyage des données, modélisation avancée.
+   - **Outils utilisés** : Python, SQL, Tableau
+   - **Résultat** : Amélioration de la rentabilité de X% grâce à une meilleure segmentation des profils à risque.
+
+---
+
+### 2. [Dataviz sur l'octroi de crédit bancaire par région](#)
+   - **Description** : Visualisation de l’octroi de crédit bancaire selon les régions pour comprendre les disparités géographiques.
+   - **Compétences acquises** : Data cleaning, analyse descriptive, visualisation des données.
+   - **Outils utilisés** : Python, Tableau, Power BI
+   - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
+
+---
+
+### 3. [Prédiction des HFTs en trading](#)
+   - **Description** : Prédiction des High-Frequency Trades (HFTs) en utilisant des algorithmes de machine learning avancés.
+   - **Compétences acquises** : Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
+   - **Outils utilisés** : Python, R
+   - **Résultat** : Réussite dans la prédiction des comportements HFT avec une précision de X%.
+
+---
+
+# 📊 Statistiques GitHub
+
 [![Samadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadkod&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
