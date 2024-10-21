@@ -174,7 +174,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ---
 
-### 3. [Prédiction des HFTs en trading](#)
+### 3. [Prédiction des HFTs en trading](https://github.com/Samadkod/Samadkod/blob/main/code_forecast_Samad%20M2IE.R)
    - **Description** : Prédiction des High-Frequency Trades (HFTs) en utilisant des algorithmes de machine learning avancés.
    - **Compétences acquises** : Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
    - **Outils utilisés** : Python, R
