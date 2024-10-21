@@ -71,7 +71,6 @@ SQL, Excel, Python, PowerPoint
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
 
-
 ---
 
 ## 1. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
@@ -81,20 +80,14 @@ L'objectif de ce projet était d'évaluer la performance des émissions de la **
 </p>
 
 ### Compétences :
-  - [x] Maîtrise des CTE (WITH) et des jointures SQL complexes
-  - [x] Segmentation des utilisateurs basée sur la consommation de contenu
-  - [x] Synthèse des résultats à destination des métiers
-  - [ ] Manipulation de grandes bases de données
+  - [x] Manipulation de grandes bases de données(Nettoyage et gestion d'anamalie, gestion des doublons, gestion de données manquantes)
+  - [x] Calcul du **taux de reach global** et par KPI (formules d'abonnement, pays et chaînes).
   - [x] Identification des forces et axes d'amélioration pour les futures stratégies de diffusion.
-  - [x] Utilisation des fonctions d'agrégation et conditionnelles
-  - [x] Calcul du **taux de reach global** et par formules d'abonnement, pays et chaînes.
   - [x] Génération de graphiques adaptés aux types de données
-
+  - [x] Synthèse des résultats à destination des métiers
+ 
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
-
-> [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
 
 
 
