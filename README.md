@@ -1,4 +1,5 @@
-# ![emichel](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
+# ![Samadkod]([https://github.com/Samadkod/Samadkod/commit/ea0967b1d74e8e0730be67ffaf524b22574d4e17)
+
 
 # Bonjour, je suis Samadou KODON ! Bienvenue sur mon profil GitHub 👋
 
