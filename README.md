@@ -1,5 +1,4 @@
 # ![Samadkod](https://github.com/Samadkod/Samadkod/blob/main/twitter-min.jpg) 
-# ![Samadkod](https://media.licdn.com/dms/image/v2/D4E16AQENBqDlCwavkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721254834671?e=1735171200&v=beta&t=im6KnKQCaMWEgbDsQuvOrV1QKIg91ter_8C9P12Tv6c)
 
 # Bonjour, je suis Samadou KODON ! Bienvenue sur mon profil GitHub 👋
 
@@ -141,6 +140,9 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
+
 ---
 [![Samadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadkod&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+# ![Samadkod](https://media.licdn.com/dms/image/v2/D4E16AQENBqDlCwavkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721254834671?e=1735171200&v=beta&t=im6KnKQCaMWEgbDsQuvOrV1QKIg91ter_8C9P12Tv6c)
 
