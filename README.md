@@ -92,14 +92,14 @@ SQL, Excel, Python, PowerPoint
   - [x] Génération de graphiques adaptés aux types de données
   - [x] Synthèse des résultats à destination des métiers
         
-  - **Résultat** : Optimisation des stratégies de diffusion en identifiant les émissions les plus engageantes.
+  - **Résultat** : Optimisation des stratégies de diffusion en identifiant les sous titres ou les periodes les plus engageantes.
  
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
 ---
 
-## 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
+### 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
 - Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
@@ -113,7 +113,13 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ---
 
-## 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
+   - **Description** : Identification des contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+).
+   - **Compétences acquises** : Analyse d’audience par plateforme, identification des préférences utilisateur, optimisation des stratégies de contenu.
+   - **Outils utilisés** : SQL, Excel, PowerPoint
+  
+
+
+### 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
 - Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience.
 
 <p align="center">
@@ -122,8 +128,10 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 - **Compétences et resultats** :
   - [x] Identification des meilleurs contenus par plateforme, permettant de mieux comprendre les préférences des utilisateurs.
-    - [x] Navigation dans des systèmes de données complexes.
-    - [x] Capacité à croiser des données de multiples plateformes.
+    - [x] Analyse d’audience par plateforme.
+    - [x] optimisation des stratégies de contenu.
+          
+  - **Résultat** : Amélioration de la stratégie de contenu sur les plateformes partenaires grâce à l’identification des meilleures émissions.
 ---
 
 ## 6. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
