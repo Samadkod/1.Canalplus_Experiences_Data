@@ -23,7 +23,7 @@ Ce portfolio regroupe plusieurs analyses allant de la segmentation des abonnées
 </p>
 
 ## Objectif de l'analyse :
-L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outre-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit afin de comprendre l'importance et l'impact que la perte de ce droit peut avoir sur le churn et le downgrade de nos abonnés (passer d'une offre premium à une offre classique).
+- L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outre-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit afin de comprendre l'importance et l'impact que la perte de ce droit peut avoir sur le churn et le downgrade de nos abonnés (passer d'une offre premium à une offre classique).
 
 ### Compétences :
   - [x] Maîtrise des CTE (WITH) et des jointures SQL complexes
@@ -52,7 +52,7 @@ SQL, Excel, PowerPoint
 </p>
 
 ### Objectif de l'analyse :
-Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
+- Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
 
 ### Compétences :
   - [x] Maîtrise des ETL et des jointures SQL complexes
@@ -74,7 +74,8 @@ SQL, Excel, Python, PowerPoint
 ---
 
 ## 3. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
-L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
+- L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
+
 <p align="center">
   <img src="https://image.over-blog.com/njENmfOTRObRazbfCP8sfwn6DOA=/filters:no_upscale()/image%2F2132870%2F20230920%2Fob_ba7f44_lb190923-06.JPG" width="1000" height="300" />
 </p>
@@ -92,21 +93,21 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ---
 
 ## 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
-Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
+- Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
   <img src="https://www.madeforyou-agency.com/medias/jpg/02.canal__international_map_iphone.jpg" width="1000" height="300" />
 </p>
 
-- **Competences et résultats clés** :
-  - [x] Analyse de la **part d'audience** et du **taux de reach** des chaînes islamiques via des requêtes **SQL**.
-  - [x] Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
-  - [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
+**Competences et résultats clés** :
+- [x] Analyse de la **part d'audience** et du **taux de reach** des chaînes islamiques via des requêtes **SQL**.
+- [x] Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
+- [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
 
 ---
 
 ## 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
-Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience.
+- Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience.
 
 <p align="center">
   <img src="https://images.frandroid.com/wp-content/uploads/2022/12/canal-disney-paramount-1.jpg" width="1000" height="300" />
@@ -116,11 +117,10 @@ Ce projet visait à identifier les contenus les plus performants sur les platefo
   - [x] Identification des meilleurs contenus par plateforme, permettant de mieux comprendre les préférences des utilisateurs.
     - [x] Navigation dans des systèmes de données complexes.
     - [x] Capacité à croiser des données de multiples plateformes.
-
 ---
 
 ## 6. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
-Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
+- Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
 
 <p align="center">
   <img src="https://thumb.canalplus.pro/bran/unsafe/460x259/filters:quality(80)/image/65534d24a663c/uploads/media/myCANAL_16x9_Logotype_MEA_1920x1080_label.jpg" width="1000" height="300" />
