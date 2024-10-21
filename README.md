@@ -80,7 +80,7 @@ L'objectif de ce projet était d'évaluer la performance des émissions de la **
 </p>
 
 ### Compétences :
-  - [x] Manipulation de grandes bases de données(Nettoyage et gestion d'anamalie, gestion des doublons, gestion de données manquantes)
+  - [x] Manipulation de grandes bases de données(Nettoyage et gestions d'anomalie, des doublons, des incoherente, des valeurs aberrantes , ainsi que des données manquantes)
   - [x] Calcul du **taux de reach global** et par KPI (formules d'abonnement, pays et chaînes).
   - [x] Identification des forces et axes d'amélioration pour les futures stratégies de diffusion.
   - [x] Génération de graphiques adaptés aux types de données
