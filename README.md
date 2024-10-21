@@ -1,3 +1,5 @@
+# ![emichel](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
+
 # Bonjour, je suis Samadou KODON ! Bienvenue sur mon profil GitHub 👋
 
 - 🔭 **Data Analyst & Scientist | Python | SQL | Data Visualisation & Machine Learning**
