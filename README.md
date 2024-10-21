@@ -157,7 +157,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 # Projets académiques
 
-### 1. [Optimisation des tarifs en assurance auto](#)
+### 1. [Optimisation des tarifs en assurance auto](https://github.com/Samadkod/Samadkod/blob/main/Script_Traitement%20de%20donn%C3%A9es%20%26%20%C3%89conom%C3%A9trie.ipynb)
    - **Description** : Modélisation prédictive pour optimiser les tarifs des assurances via des techniques de machine learning.
    - **Mention :** Mention excellente obtenue pour ce projet.
    - **Compétences acquises** : Régression GLM, prédiction, nettoyage des données, modélisation avancée.
