@@ -73,7 +73,7 @@ SQL, Excel, PowerPoint
 SQL, Excel, Python, PowerPoint
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [prediction churn.txt](#)
 
 ---
 
@@ -85,7 +85,7 @@ SQL, Excel, Python, PowerPoint
 </p>
 
 ### Compétences :
-  - [x] Manipulation de grandes bases de données(Nettoyage et gestions d'anomalie, des doublons, des incoherente, des valeurs aberrantes , ainsi que des données manquantes)
+  - [x] Manipulation de grandes bases de données(Nettoyage et gestions d'anomalie, gestion des doublons et incoherences, des valeurs aberrantes , ainsi que des données manquantes)
   - [x] Calcul du **taux de reach global** et par KPI (formules d'abonnement, pays et chaînes).
   - [x] Identification des forces et axes d'amélioration pour les futures stratégies de diffusion.
   - [x] Génération de graphiques adaptés aux types de données
@@ -140,9 +140,6 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
-
 ---
 [![Samadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadkod&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
-# ![Samadkod](https://media.licdn.com/dms/image/v2/D4E16AQENBqDlCwavkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721254834671?e=1735171200&v=beta&t=im6KnKQCaMWEgbDsQuvOrV1QKIg91ter_8C9P12Tv6c)
 
