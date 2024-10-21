@@ -53,15 +53,14 @@ Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indi
 
 ### Compétences :
   - [x] Maîtrise des ETL et des jointures SQL complexes
-  - [x] Segmentation des utilisateurs basée sur la consommation de contenu
-  - [x] Synthèse des résultats à destination des métiers
   - [x] Analyse descriptive : compréhension du comportement des abonnés
-  - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
+    - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
   - [x] Revue de littérature sur la modélisation du churn
   - [x] Mise en place de modèles de prédiction du churn
     - [x] Choix des variables pour les modèles de machine learning
     - [x] Sélection de variables pour la régression logistique
   - [x] Génération de graphiques adaptés aux types de données
+  - [x] Synthèse des résultats à destination des métiers
 
 ### Outils utilisés :
 SQL, Excel, Python, PowerPoint
