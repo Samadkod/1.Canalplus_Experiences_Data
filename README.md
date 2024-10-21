@@ -1,4 +1,5 @@
-# ![Samadkod](https://github.com/Samadkod/Samadkod/blob/main/twitter-min.jpg) # ![Samadkod](https://media.licdn.com/dms/image/v2/D4E16AQENBqDlCwavkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721254834671?e=1735171200&v=beta&t=im6KnKQCaMWEgbDsQuvOrV1QKIg91ter_8C9P12Tv6c)
+# ![Samadkod](https://github.com/Samadkod/Samadkod/blob/main/twitter-min.jpg) 
+# ![Samadkod](https://media.licdn.com/dms/image/v2/D4E16AQENBqDlCwavkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721254834671?e=1735171200&v=beta&t=im6KnKQCaMWEgbDsQuvOrV1QKIg91ter_8C9P12Tv6c)
 
 # Bonjour, je suis Samadou KODON ! Bienvenue sur mon profil GitHub 👋
 
