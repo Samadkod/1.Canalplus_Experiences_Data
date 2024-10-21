@@ -10,7 +10,7 @@
 - 📧 Contact : samadou.kodon@gmail.com
 - 📫 LinkedIn : [Samadou Kodon](https://www.linkedin.com/in/skodon/)
 
-  <p align='center'>
+  <p align='left'>
   <a href="https://www.linkedin.com/in/e-michel/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:singh_kshitij@yahoo.com"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/envelope-alt.png?raw=true"></a>
 </p>
