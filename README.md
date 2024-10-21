@@ -37,7 +37,7 @@
   - [x] synthèse des résultats pour les métiers.
   - [x] Génération de graphiques adaptés aux types de données
 
-  - **Résultat** : Analyse des abonnés et estimation de l’impact du churn potentiel dû à la perte des droits de diffusion.
+  - **Résultat** :Segmentation des utilisateurs basée sur la consommation de contenu et estimation de l’impact du churn potentiel dû à la perte des droits de diffusion.
 
 ### Outils utilisés :
 SQL, Excel, PowerPoint
@@ -45,15 +45,12 @@ SQL, Excel, PowerPoint
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
 
- 
-
-
 ---
 
 # 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 ## Problématique : 
-**Comprendre le comportement des abonnés et prédire le churn selon leur consommation TV.**
+Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de prédiction du churn.
 
 <p align="center">
   <img src="https://dezyre.gumlet.io/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png?w=800&dpr=1.0" width="1000" height="300" />
@@ -81,19 +78,21 @@ SQL, Excel, Python, PowerPoint
 
 ---
 
-## 3. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
+### 3. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
 - L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
 
 <p align="center">
   <img src="https://image.over-blog.com/njENmfOTRObRazbfCP8sfwn6DOA=/filters:no_upscale()/image%2F2132870%2F20230920%2Fob_ba7f44_lb190923-06.JPG" width="1000" height="300" />
 </p>
 
-### Compétences :
+- **Competences** 
   - [x] Manipulation de grandes bases de données(Nettoyage et gestions d'anomalie, gestion des doublons et incoherences, des valeurs aberrantes , ainsi que des données manquantes)
   - [x] Calcul du **taux de reach global** et par KPI (formules d'abonnement, pays et chaînes).
   - [x] Identification des forces et axes d'amélioration pour les futures stratégies de diffusion.
   - [x] Génération de graphiques adaptés aux types de données
   - [x] Synthèse des résultats à destination des métiers
+        
+  - **Résultat** : Optimisation des stratégies de diffusion en identifiant les émissions les plus engageantes.
  
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
