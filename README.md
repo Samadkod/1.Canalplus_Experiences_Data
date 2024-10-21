@@ -89,22 +89,20 @@ L'objectif de ce projet était d'évaluer la performance des émissions de la **
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
-
 ---
 
 ## 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
 Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
-- **Méthodologie** :
-  - Analyse de la **part d'audience** et du **taux de reach** des chaînes islamiques via des requêtes **SQL**.
-  
-- **Résultats clés** :
-  - Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
-  - Insight sur les habitudes de consommation pendant les saisons religieuses.
+<p align="center">
+  <img src="  https://www.madeforyou-agency.com/medias/jpg/02.canal__international_map_iphone.jpg" width="1000" height="300" />
+</p>
 
-- **Compétences développées** :
-  - Analyse saisonnière et dynamique des marchés africains.
-  
+- **Competences et résultats clés** :
+  - [x] Analyse de la **part d'audience** et du **taux de reach** des chaînes islamiques via des requêtes **SQL**.
+  - [x] Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
+  - [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
+
 ---
 
 ## 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
@@ -114,7 +112,7 @@ Ce projet visait à identifier les contenus les plus performants sur les platefo
   <img src="https://images.frandroid.com/wp-content/uploads/2022/12/canal-disney-paramount-1.jpg" width="1000" height="300" />
 </p>
 
-- **Compétences développées** :
+- **Compétences et resultats** :
   - [x] Identification des meilleurs contenus par plateforme, permettant de mieux comprendre les préférences des utilisateurs.
     - [x] Navigation dans des systèmes de données complexes.
     - [x] Capacité à croiser des données de multiples plateformes.
