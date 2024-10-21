@@ -24,8 +24,6 @@
 ---
 ### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
-  - **Description** : Segmentation des abonnés visionnant la Ligue 1 dans les DROM pour comprendre leur consommation et ajuster les stratégies de diffusion.
-
 <p align="center">
   <img src="https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg" width="1000" height="300" />
 </p>
