@@ -139,5 +139,8 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ---
 [![Samadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadkod&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Icône LinkedIn pour le mode clair -->
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/skodon/#gh-light-mode-only)
 
-[![Samadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadkod&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Icône LinkedIn pour le mode sombre -->
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/skodon/#gh-dark-mode-only)
