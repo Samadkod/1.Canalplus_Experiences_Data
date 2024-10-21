@@ -6,7 +6,7 @@
 - 🔭 **Data Analyst & Scientist | Python | SQL | Data Visualisation & Machine Learning**
 - 🎓 *Major de promotion - Big Data & Data Science à l'Université de Montpellier*
 - 🎓 *Master en Quantification et Analyse Économique*
-- 🔍 **Actuellement à la recherche d'un CDI en Data Analyst.**
+- 🔍 **Actuellement à la recherche d'un CDI en tant que Data Analyst.**
 - 📧 Contact : samadou.kodon@gmail.com
 
 <p align='left'>
