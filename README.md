@@ -12,37 +12,43 @@
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
 
-# Analyse de Performance des Contenus Médias
-
-Ce portfolio regroupe plusieurs analyses allant de la segmentation des abonnés, des études sur la performance de contenus, de la dataviz, jusqu'à la prediction via des modèles de Machine Learning. j'ai réalisé ces projets dans le cadre de mon rôle de **Data Analyst chez Canal+ International**. Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus des medias, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
+## 🔧 Compétences techniques :
+- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Gestion des données massives (Big Data)
 
 ---
-# 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
-## Problématique : 
-**Segmentation des abonnés visionnant la Ligue 1 dans les DROM.**
+# Projets professionnels
+
+- j'ai réalisé ces projets dans le cadre de mon rôle de **Data Analyst chez Canal+ International et chef de projet data à l'univiersté de Montpellier** . Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus des medias, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
+
+---
+### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+
+  - **Description** : Segmentation des abonnés visionnant la Ligue 1 dans les DROM pour comprendre leur consommation et ajuster les stratégies de diffusion.
 
 <p align="center">
   <img src="https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg" width="1000" height="300" />
 </p>
 
 ## Objectif de l'analyse :
-- L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outre-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit afin de comprendre l'importance et l'impact que la perte de ce droit peut avoir sur le churn et le downgrade de nos abonnés (passer d'une offre premium à une offre classique).
+- L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outre-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit de diffusion afin de comprendre l'importance et l'impact que la perte de ce droit peut avoir sur le churn et le downgrade de nos abonnés.
 
-### Compétences :
-  - [x] Maîtrise des CTE (WITH) et des jointures SQL complexes
+- **Compétences acquises** :
+  - [x] Maîtrise des CTE (WITH) ,Maîtrise des CTE (WITH), SQL avancé via des jointures SQL complexes.
   - [x] Segmentation des utilisateurs basée sur la consommation de contenu
-  - [x] Synthèse des résultats à destination des métiers
-  - [x] Optimisation des requêtes avec ROW_NUMBER() et filtrage efficace
-  - [x] Utilisation des fonctions d'agrégation et conditionnelles
-  - [x] Calculs précis et transformations de données
+  - [x] synthèse des résultats pour les métiers.
   - [x] Génération de graphiques adaptés aux types de données
+
+  - **Résultat** : Analyse des abonnés et estimation de l’impact du churn potentiel dû à la perte des droits de diffusion.
 
 ### Outils utilisés :
 SQL, Excel, PowerPoint
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
+
+ 
+
 
 ---
 
