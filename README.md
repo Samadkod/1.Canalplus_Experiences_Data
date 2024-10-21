@@ -10,7 +10,7 @@
 
 # Analyse de Performance des Contenus Médias
 
-Ce portfolio regroupe plusieurs analyses allant de la segmentation des abonnées, des études sur la performance de contenus, de la dataviz, jusqu'à la prediction via des modeles de Machine Learning. j'ai réalisées ces projets dans le cadre de mon rôle de **Data Analyst chez Canal+ International**. Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus des medias, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
+Ce portfolio regroupe plusieurs analyses allant de la segmentation des abonnés, des études sur la performance de contenus, de la dataviz, jusqu'à la prediction via des modèles de Machine Learning. j'ai réalisé ces projets dans le cadre de mon rôle de **Data Analyst chez Canal+ International**. Ces projets m'ont permis de développer une expertise solide en analyse de données de contenus des medias, avec un accent sur la performance, l'audience et le comportement des utilisateurs à travers divers territoires et plateformes.
 
 ---
 # 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
