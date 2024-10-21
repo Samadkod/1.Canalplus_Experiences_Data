@@ -45,19 +45,22 @@ SQL, Excel, PowerPoint
 
 ---
 
-# 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
-## Problématique : 
+
+
+### 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+
+- ***Problématique*** : 
 Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de prédiction du churn.
 
 <p align="center">
   <img src="https://dezyre.gumlet.io/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png?w=800&dpr=1.0" width="1000" height="300" />
 </p>
 
-### Objectif de l'analyse :
+- ***Objectif de l'analyse*** :
 - Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
 
-### Compétences :
+- ***Compétences*** :
   - [x] Maîtrise des ETL et des jointures SQL complexes
   - [x] Analyse descriptive : compréhension du comportement des abonnés
     - [x] Analyse bivariée des "abonnés fidèles" et "abonnés churners"
@@ -75,6 +78,9 @@ SQL, Excel, Python, PowerPoint
 > Vous pouvez consulter les ressources de ce projet via ce lien : [prediction churn.txt](#)
 
 ---
+
+
+
 
 ### 3. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
 - L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
@@ -97,6 +103,8 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ---
 
+
+
 ### 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
 - Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
@@ -110,11 +118,6 @@ SQL via Snowflake, Excel, Python, PowerPoint
 - [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
 
 ---
-
-   - **Description** : Identification des contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+).
-   - **Compétences acquises** : Analyse d’audience par plateforme, identification des préférences utilisateur, optimisation des stratégies de contenu.
-   - **Outils utilisés** : SQL, Excel, PowerPoint
-  
 
 
 ### 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
