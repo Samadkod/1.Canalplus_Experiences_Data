@@ -8,13 +8,11 @@
 - 🎓 *Master en Quantification et Analyse Économique*
 - 🔍 **Actuellement à la recherche d'un CDI en Data Analyst.**
 - 📧 Contact : samadou.kodon@gmail.com
-- 📫 LinkedIn : [Samadou Kodon](https://www.linkedin.com/in/skodon/)
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
-
 
 
 # Analyse de Performance des Contenus Médias
