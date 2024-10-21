@@ -95,7 +95,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
-  <img src="  https://www.madeforyou-agency.com/medias/jpg/02.canal__international_map_iphone.jpg" width="1000" height="300" />
+  <img src="https://www.madeforyou-agency.com/medias/jpg/02.canal__international_map_iphone.jpg" width="1000" height="300" />
 </p>
 
 - **Competences et résultats clés** :
