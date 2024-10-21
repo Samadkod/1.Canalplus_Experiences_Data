@@ -73,7 +73,7 @@ SQL, Excel, Python, PowerPoint
 
 ---
 
-## 3. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
+## 3. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
 - L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
 
 <p align="center">
