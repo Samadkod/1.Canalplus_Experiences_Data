@@ -42,11 +42,11 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
 - SQL, Excel, PowerPoint
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
-
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](#)
 
 ---
-### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Segmentation%20parc%20de%20la%20LDC.txt)
+### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](#)
+
 <p align="center">
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="1000" height="300" />
 </p>
