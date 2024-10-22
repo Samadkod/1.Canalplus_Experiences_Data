@@ -1,0 +1,200 @@
+-----------------TOP 5 contenus par zone et par chaîne---------------------------------------------
+----------------------- Antilles--------------------------------------------
+
+WITH RankedContent AS (
+    SELECT
+        channel_name,
+        GENRE,
+        title_divisible,
+        COUNT(DISTINCT ID_PERSON) AS View_Count,
+        ROW_NUMBER() OVER (
+            PARTITION BY channel_name
+            ORDER BY COUNT(DISTINCT ID_PERSON) DESC
+        ) AS Rank
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+    WHERE data_source = 'socle_international'
+    AND zone = 'cpant'
+    AND content_type = 'REPLAY'
+    AND session_duration >= 60
+    AND channel_name IN ('Paramount+', 'Apple TV+')
+    AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+    GROUP BY channel_name, title_divisible, GENRE
+)
+SELECT
+    channel_name,
+    title_divisible,
+    GENRE,
+    View_Count
+FROM RankedContent
+WHERE Rank <= 5
+ORDER BY channel_name, View_Count DESC;
+
+
+
+--Vues unique globale
+
+WITH ContentData AS (
+SELECT channel_name,
+        COUNT(DISTINCT ID_PERSON) AS Unique_Viewers
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+    WHERE data_source = 'socle_international'
+    AND zone = 'cpant'
+    AND content_type = 'REPLAY'
+    AND session_duration >= 60
+    AND channel_name IN ('Paramount+', 'Apple TV+')
+    AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+    GROUP BY channel_name
+)
+SELECT
+    channel_name,
+    Unique_Viewers
+FROM ContentData;
+
+--Res Apple TV+: 6113
+----DONNEES PBI
+--- Jan: 6938
+--- Fev: 7662
+--- Mar: 8165
+--- Avr: 8728
+
+--- AVG  Apple TV+ :7873 CORRECT
+
+
+---- DONNEES PBI:
+---- AVG paramount+ 31139 CORRECT
+
+
+SELECT
+    channel_name,
+    COUNT(DISTINCT ID_PERSON) AS Unique_Viewers
+FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+WHERE data_source = 'socle_international'
+AND zone = 'cpant'
+AND content_type = 'REPLAY'
+AND session_duration >= 60
+AND channel_name IN ('Paramount+', 'Apple TV+')
+AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+GROUP BY channel_name;
+
+
+----------------------- Reunion --------------------------------------------
+WITH RankedContent AS (
+    SELECT
+        channel_name,
+        GENRE,
+        title_divisible,
+        COUNT(DISTINCT ID_PERSON) AS View_Count,
+        ROW_NUMBER() OVER (
+            PARTITION BY channel_name
+            ORDER BY COUNT(DISTINCT ID_PERSON) DESC
+        ) AS Rank
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+    WHERE data_source = 'socle_international'
+    AND zone = 'cpreu'
+    AND content_type = 'REPLAY'
+    AND session_duration >= 60
+    AND channel_name IN ('Paramount+', 'Apple TV+')
+    AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+    GROUP BY channel_name, title_divisible, GENRE
+)
+SELECT
+    channel_name,
+    title_divisible,
+    GENRE,
+    View_Count
+FROM RankedContent
+WHERE Rank <= 5
+ORDER BY channel_name, View_Count DESC;
+
+
+----DONNEES PBI
+--- AVG  APPLE:8789
+--- AVG PARA: 16087
+
+
+
+
+---Comptage des vues unique
+WITH ContentData AS (
+    SELECT
+        channel_name,
+        COUNT(DISTINCT ID_PERSON) AS Unique_Viewers
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+    WHERE data_source = 'socle_international'
+    AND zone = 'cpreu'
+    AND content_type = 'REPLAY'
+    AND channel_name IN ('Paramount+', 'Apple TV+')
+    AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+    GROUP BY channel_name
+)
+SELECT
+    channel_name,
+    Unique_Viewers
+FROM ContentData;
+
+--Res paramont+: 18381
+--Res Apple tv+: 7983
+
+-----------------------Nouvele caledo--------------------------------------------
+WITH RankedContent AS (
+    SELECT
+        channel_name,
+        GENRE,
+        title_divisible,
+        COUNT(DISTINCT ID_PERSON) AS View_Count,
+        ROW_NUMBER() OVER (
+            PARTITION BY channel_name
+            ORDER BY COUNT(DISTINCT ID_PERSON) DESC
+        ) AS Rank
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+    WHERE data_source = 'socle_international'
+    AND zone = 'cpncl'
+    AND content_type = 'REPLAY'
+    AND session_duration >= 60
+    AND channel_name IN ('Paramount+', 'Apple TV+')
+    AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+    GROUP BY channel_name, title_divisible, GENRE
+)
+SELECT
+    channel_name,
+    title_divisible,
+    GENRE,
+    View_Count
+FROM RankedContent
+WHERE Rank <= 5
+ORDER BY channel_name, View_Count DESC;
+
+
+
+--- AVG Apple TV+ :1279 CORRECT
+
+----DONNEES PBI
+--- AVG  paramount+:5154 CORRECT
+
+
+
+
+
+
+
+
+----Nbre total abo unique
+WITH ContentData AS (
+    SELECT
+        channel_name,
+        COUNT(DISTINCT ID_PERSON) AS Unique_Viewers
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO
+    WHERE data_source = 'socle_international'
+    AND zone = 'cpncl'
+    AND content_type = 'REPLAY'
+    AND channel_name IN ('Paramount+', 'Apple TV+')
+    AND SESSION_START_DATE_UTC BETWEEN '2024-01-01' AND '2024-04-30'
+    GROUP BY channel_name
+)
+SELECT
+    channel_name,
+    Unique_Viewers
+FROM ContentData;
+
+--Res paramont+: 3389
+--Res Apple tv+: 1418
