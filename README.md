@@ -195,7 +195,6 @@ SQL via Snowflake, Excel, Python, PowerPoint
 Python, Pandas, Requests, Dataiku
 
 > [!NOTE]
-
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Flashscore%20(1).ipynb).
 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Script_programmes_NBA.ipynb).
