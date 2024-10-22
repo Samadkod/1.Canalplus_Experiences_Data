@@ -46,10 +46,10 @@ SQL, Excel, PowerPoint
 
 
 
-### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
+### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Segmentation%20parc%20de%20la%20LDC.txt)
 
 <p align="center">
-  <img src="https://www.footballcoin.io/wp-content/uploads/2020/11/Champions-League-top-teams.png" width="1000" height="300" />
+  <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="1000" height="300" />
 </p>
 
 ## Objectif de l'analyse :
