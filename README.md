@@ -99,6 +99,11 @@ SQL, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
+
+> [!NOTE]
+> 
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Performance%20de%20la%20nuit%20bonus%20en%20Live%20vs%20Rediff.docx).
+
 ---
 
 
@@ -184,7 +189,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Outils utilisés** : Python, Tableau, Power BI
    - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
 
-   > [!NOTE]
+> [!NOTE]
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf).
 > 
