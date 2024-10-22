@@ -188,7 +188,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Report_KPI.pdf).
 > 
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Dataset_1.xlsx).
 
 ---
 
