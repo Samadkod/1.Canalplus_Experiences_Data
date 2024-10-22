@@ -21,16 +21,16 @@
 # Projets professionnels
 
 ---
-### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
+### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](#)
 
 <p align="center">
   <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="1000" height="300" />
 </p>
 
 ## Objectif de l'analyse :
-- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans les **territoires d'Outre-Mer (DROM)**, incluant les **Antilles**, **La Réunion**, et la **Nouvelle-Calédonie**. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
+- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans les **territoires d'Outre-Mer (DROM)** . Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
   
-En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment en **Nouvelle-Calédonie** où les horaires de diffusion représentent un obstacle majeur.
+En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment en dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
 
 - **Compétences acquises** :
   - [x] Analyse des comportements de visionnage par région géographique.
