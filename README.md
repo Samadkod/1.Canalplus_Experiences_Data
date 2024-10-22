@@ -7,6 +7,7 @@
 - 🎓 *Master en Quantification et Analyse Économique à l'université de Franche-comté*
 - 🔍 **Actuellement à la recherche d'un CDI en tant que Data Analyst.**
 
+## Connexion :
 <p align='left'>
   <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
