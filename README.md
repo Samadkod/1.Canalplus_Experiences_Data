@@ -56,6 +56,8 @@ Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de p
 - ***Objectif de l'analyse*** :
 - Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
 
+- L'un de mes projets chez Canal+, consistait à travailler sur le churn des abonnés en utilisant une approche d'analyse prédictive pour anticiper leur désabonnement. Pour atteindre cet objectif, nous avons développé plusieurs modèles de Machine Learning, incluant la régression logistique, les arbres de décision et les forêts aléatoires. Ces modèles nous permettent de prévoir avec une certaine précision quels abonnés sont les plus susceptibles de résilier leurs abonnements. L'impact attendu de ce projet est de réduire significativement le taux de désabonnement. 
+
 - ***Compétences*** :
   - [x] Maîtrise des ETL et des jointures SQL complexes
   - [x] Analyse descriptive : compréhension du comportement des abonnés
@@ -117,7 +119,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 
 ### 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](https://github.com/Samadkod/Samadkod/blob/main/Apple%20TV.txt)
-- Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience.
+- Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
 
 <p align="center">
   <img src="https://images.frandroid.com/wp-content/uploads/2022/12/canal-disney-paramount-1.jpg" width="1000" height="300" />
@@ -137,6 +139,8 @@ SQL via Snowflake, Excel, Python, PowerPoint
 <p align="center">
   <img src="https://thumb.canalplus.pro/bran/unsafe/460x259/filters:quality(80)/image/65534d24a663c/uploads/media/myCANAL_16x9_Logotype_MEA_1920x1080_label.jpg" width="1000" height="300" />
 </p>
+
+- Dans le cadre de mon stage, nous avions pour objectif de mesurer l'impact des créations originales de Canal+ sur les abonnés des DROM. Pour cela, nous avons utilisé des techniques d'extraction et d'analyse de données via SQL, complétées par des visualisations en Python, en nous concentrant particulièrement sur le taux de Reach par contenu.
 
 ### Compétences :
 
