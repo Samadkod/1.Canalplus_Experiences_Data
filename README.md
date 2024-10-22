@@ -224,7 +224,6 @@ Python, Pandas, Dataiku
 ---
 # Projets académiques
 
-
 ### 1. [Optimisation des Stratégies d'Assurance(https://github.com/Samadkod/Samadkod/blob/main/Script_Projet%20data.ipynb)
 
 <p align="center">
