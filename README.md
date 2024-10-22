@@ -155,7 +155,6 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 
 ---
-
 # Projets académiques
 
 ### 1. [Optimisation des tarifs en assurance auto](https://github.com/Samadkod/Samadkod/blob/main/Script_Traitement%20de%20donn%C3%A9es%20%26%20%C3%89conom%C3%A9trie.ipynb)
@@ -192,7 +191,6 @@ SQL via Snowflake, Excel, Python, PowerPoint
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Report_KPI.pdf).
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Dataset_1.xlsx).
-
 ---
 
 ### 3. [Prédiction des HFTs en trading](https://github.com/Samadkod/Samadkod/blob/main/code_forecast_Samad%20M2IE.R)
@@ -207,12 +205,13 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Outils utilisés** : Python, R
 
 > [!NOTE]
-> 
+
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
-> 
+
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx).
-> 
+
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf).
+
 ---
 
 # 📊 Statistiques GitHub
