@@ -45,7 +45,6 @@ SQL, Excel, PowerPoint
 > Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 
-
 ### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Segmentation%20parc%20de%20la%20LDC.txt)
 
 <p align="center">
@@ -71,7 +70,7 @@ Python, SQL, Dataiku, Excel
 
 ---
 
-### 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
+### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
 
 - ***Problématique*** : 
 Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de prédiction du churn.
@@ -105,7 +104,7 @@ SQL, Excel, Python, PowerPoint
 
 ---
 
-### 3. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
+### 4. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
 - L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
 
 <p align="center">
@@ -125,7 +124,7 @@ SQL, Excel, Python, PowerPoint
 SQL via Snowflake, Excel, Python, PowerPoint
 
 > [!NOTE]
-> 
+
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Performance%20de%20la%20nuit%20bonus%20en%20Live%20vs%20Rediff.docx).
 
 
@@ -180,7 +179,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
-### 2. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](https://github.com/Samadkod/Mon-portfolio_data/blob/main/EXTRACTION_CALENDRIER_EURO.txt)
+### 8. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](https://github.com/Samadkod/Mon-portfolio_data/blob/main/EXTRACTION_CALENDRIER_EURO.txt)
 
 <p align="center">
   <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-05/240509-nba-game-ch-1311-f72588.jpg" width="1000" height="300" />
@@ -201,10 +200,29 @@ SQL via Snowflake, Excel, Python, PowerPoint
 Python, Pandas, Requests, Dataiku
 
 > [!NOTE]
-> 
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Flashscore%20(1).ipynb).
-> > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Flashscore%20(1).ipynb).
 
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Flashscore%20(1).ipynb).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Script_programmes_NBA.ipynb).
+
+
+### 9. [Classification des abonnés de la Ligue 1 selon leur consommation](https://github.com/Samadkod/Mon-portfolio_data/blob/main/CLASSIFICATION_L1.txt)
+
+<p align="center">
+  <img src="https://www.ariase.com/uploads/media/ac1027b89a8b7c11ea60700da77ae9f30282368f.jpeg" width="1000" height="300" />
+</p>
+
+## Objectif de l'analyse :
+- L'objectif de ce projet est de **classer les abonnés de la Ligue 1** selon leur niveau de consommation, en tenant compte des saisons 2022/2023 et 2023/2024. Cette segmentation permet de distinguer trois catégories d'abonnés : **faible**, **moyen**, et **haut**, en fonction du temps passé à visionner les matchs.
+  
+  En analysant la consommation totale des abonnés, nous pouvons mieux comprendre leur engagement et **cibler les actions marketing** pour améliorer la rétention, notamment pour ceux ayant un engagement faible.
+
+- **Compétences acquises** :
+  - [x] Utilisation de **Pandas** pour appliquer des règles de classification sur les abonnés.
+  - [x] Segmentation en fonction de la durée totale de consommation des abonnés.
+  - [x] Traitement des données via Dataiku et export des résultats pour des analyses futures.
+
+### Outils utilisés :
+Python, Pandas, Dataiku
 
 ---
 # Projets académiques
