@@ -179,9 +179,10 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Compétences acquises** : Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
    - **Outils utilisés** : Python, R
 
-     > [!NOTE]
+> [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx)
+> > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx)
 ---
 
 # 📊 Statistiques GitHub
