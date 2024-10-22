@@ -21,7 +21,7 @@
 # Projets professionnels
 
 ---
-### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
 
 <p align="center">
   <img src="https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg" width="1000" height="300" />
@@ -40,7 +40,7 @@
 SQL, Excel, PowerPoint
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la ligue 1 ](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 ---
 
