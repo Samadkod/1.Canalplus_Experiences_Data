@@ -28,19 +28,21 @@
 </p>
 
 ## Objectif de l'analyse :
-- L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outre-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit de diffusion afin de comprendre l'importance et l'impact que la perte de ce droit peut avoir sur le churn et le downgrade de nos abonnés.
+- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans les **territoires d'Outre-Mer (DROM)**, incluant les **Antilles**, **La Réunion**, et la **Nouvelle-Calédonie**. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
+  
+En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment en **Nouvelle-Calédonie** où les horaires de diffusion représentent un obstacle majeur.
 
 - **Compétences acquises** :
-  - [x] Maîtrise des CTE (WITH), SQL avancé via des jointures SQL complexes.
-  - [x] Segmentation des utilisateurs basée sur la consommation de contenu
-  - [x] synthèse des résultats pour les métiers.
-  - [x] Génération de graphiques adaptés aux types de données
+  - [x] Analyse des comportements de visionnage par région géographique.
+  - [x] Utilisation de **SQL** pour segmenter les abonnés et les classer en fonction de leur consommation.
+  - [x] Synthèse des résultats pour les équipes marketing et métiers.
+  - [x] Création de graphiques et visualisations pour représenter l'engagement selon les territoires.
 
 ### Outils utilisés :
 SQL, Excel, PowerPoint
 
-> [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la ligue 1 ](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+> [!NOTE]  
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 ---
 
@@ -77,9 +79,6 @@ SQL, Excel, Python, PowerPoint
 
 ---
 
-
-
-
 ### 3. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
 - L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
 
@@ -99,16 +98,38 @@ SQL, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
-
 > [!NOTE]
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Performance%20de%20la%20nuit%20bonus%20en%20Live%20vs%20Rediff.docx).
 
 ---
 
+### 4. [Segmentation parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
+
+<p align="center">
+  <img src="https://www.footballcoin.io/wp-content/uploads/2020/11/Champions-League-top-teams.png" width="1000" height="300" />
+</p>
+
+## Objectif de l'analyse :
+- L'objectif de cette analyse est de segmenter les abonnés en fonction de leur **consommation des matchs de la Champions League (CL)**. En fonction du comportement de visionnage, nous avons créé des groupes d'abonnés (de "rare" à "ultra+") pour mieux comprendre leur engagement et adapter les actions marketing.
+  
+Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fidèles et proposer des offres personnalisées pour maximiser leur satisfaction tout en réduisant le churn (désabonnement).
+
+- **Compétences acquises** :
+  - [x] Maîtrise des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations par saison.
+  - [x] Création d'un modèle de **segmentation des abonnés** basé sur la durée de consommation.
+  - [x] Synthèse des résultats pour les équipes marketing afin de **cibler les actions** en fonction du segment.
+  - [x] Automatisation des processus d'analyse via **Dataiku**.
+
+### Outils utilisés :
+Python, SQL, Dataiku, Excel
+
+> [!NOTE]  
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation des abonnés Champions League](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION_CL.txt)
 
 
-### 4. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Perf_ramadan.txt)
+---
+### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Perf_ramadan.txt)
 - Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
@@ -123,7 +144,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ---
 
 
-### 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](https://github.com/Samadkod/Samadkod/blob/main/Apple%20TV.txt)
+### 6. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](https://github.com/Samadkod/Samadkod/blob/main/Apple%20TV.txt)
 - Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
 
 <p align="center">
@@ -138,7 +159,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
   - **Résultat** : Amélioration de la stratégie de contenu sur les plateformes partenaires grâce à l’identification des meilleures émissions.
 ---
 
-## 6. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](https://github.com/Samadkod/Samadkod/blob/main/Perf_creation_orig.txt)
+## 7. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](https://github.com/Samadkod/Samadkod/blob/main/Perf_creation_orig.txt)
 - Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
 
 <p align="center">
