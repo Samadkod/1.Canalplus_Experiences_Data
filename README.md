@@ -131,7 +131,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
   - **Résultat** : Amélioration de la stratégie de contenu sur les plateformes partenaires grâce à l’identification des meilleures émissions.
 ---
 
-## 6. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
+## 6. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](https://github.com/Samadkod/Samadkod/blob/main/Perf_creation_orig.txt)
 - Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
 
 <p align="center">
