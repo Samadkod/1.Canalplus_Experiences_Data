@@ -1,0 +1,73 @@
+# -*- coding: utf-8 -*-
+import dataiku
+import pandas as pd, numpy as np
+from dataiku import pandasutils as pdu
+import requests
+from datetime import datetime, timedelta
+
+
+#fonction qui va chercher via la API
+def get_selected_columns_as_dataframe(season, competition_ids):
+    api_key = "f4c77952283c4752ba97be557f6f26b9"  # Clé API pour accéder à l'API Football Data
+    headers = {"X-Auth-Token": api_key}  # En-têtes pour l'autorisation
+    all_matches = []  # Liste pour stocker les données de toutes les compétitions
+   
+    for competition_id in competition_ids:
+        base_url = f"https://api.football-data.org/v4/competitions/{competition_id}/matches"  # URL de l'API pour les matchs de la compétition spécifiée
+       
+        response = requests.get(base_url, headers=headers, params={"season": season})  # Requête GET à l'API avec la saison spécifiée
+        if response.status_code == 200:
+            data = response.json()  # Conversion de la réponse en format JSON
+           
+            # Convertir les données en DataFrame
+            df = pd.json_normalize(data['matches'])  # On se concentre sur les matchs dans les données JSON
+           
+            # Ajouter les données de cette compétition à la liste
+            all_matches.append(df)
+        else:
+            print(f"Erreur {response.status_code} pour la compétition ID {competition_id}")
+
+    # Combiner les DataFrames de toutes les compétitions en un seul DataFrame
+    df_combined = pd.concat(all_matches, ignore_index=True)
+   
+    # Sélectionner les colonnes spécifiées
+    columns_to_keep = [
+        'id',
+        'utcDate',
+        'area.name',
+        'area.code',
+        'competition.id',
+        'competition.name',
+        'competition.code',
+        'competition.type',
+        'season.id',
+        'season.startDate',
+        'season.endDate',
+        'homeTeam.name',
+        'homeTeam.tla',
+        'awayTeam.name',
+        'awayTeam.tla',
+        'score.winner',
+        'score.duration'
+    ]
+    df_selected = df_combined.loc[:,columns_to_keep]
+    df_selected['utcDate'] = pd.to_datetime(df_selected['utcDate'])
+
+    # Extract date and time into separate columns
+    df_selected['date_diff'] = df_selected['utcDate'].dt.date
+    df_selected['time_diff'] = df_selected['utcDate'].dt.time
+    df_selected.rename(columns=lambda x: x.replace('.', '_'), inplace=True)
+   
+    return df_selected
+
+
+
+# Compute recipe outputs
+# NB: DSS supports several kinds of APIs for reading and writing data. Please see doc.
+competition_ids = ["EC"]
+Euro_Calendar_df = get_selected_columns_as_dataframe("2024", competition_ids) # Compute a Pandas dataframe to write into Championship_Calendar
+
+
+# Write recipe outputs
+Euro_Calendar = dataiku.Dataset("Euro_Calendar")
+Euro_Calendar.write_with_schema(Euro_Calendar_df)
