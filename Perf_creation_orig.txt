@@ -1,0 +1,97 @@
+with content as (SELECT
+CASE WHEN ID_PERSON LIKE '5%' AND REGEXP_LIKE(ID_PERSON, '^[0-9]+$') THEN
+          TO_NUMBER(ID_PERSON) - 5000000000000 + 100000000 ELSE NULL END AS ID_CLIENT,
+c.original_title
+FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO sv
+INNER JOIN PRD_DWH.WW_CONTENT.CONTENT c  ON c.Content_id = sv.id_content
+WHERE sv.data_source LIKE 'socle_international'
+    AND sv.zone = 'cpant'
+    AND sv.session_start_date_utc BETWEEN '2023-10-01' AND '2024-02-29'
+    AND sv.SESSION_DURATION >= 60
+    AND (LOWER(c.original_title) LIKE '%magmas 76%'
+    OR LOWER(c.original_title) LIKE '%rudy gobert n°27%'
+    OR LOWER(c.original_title) LIKE '%obésité, l''insoutenable quête de légèreté%'
+    OR LOWER(c.original_title) LIKE '%avec naomie%'
+    OR LOWER(c.original_title) LIKE '%la guyane, ma vrai nature%'
+    OR LOWER(c.original_title) LIKE '%pierre-edouard décimus%'
+    OR LOWER(c.original_title) LIKE '%le zouk et la prière des oiseaux%'
+    OR LOWER(c.original_title) LIKE '%changeons!%'
+    OR LOWER(c.original_title) = 'lyrics'
+    OR LOWER(c.original_title) = 'loxymore'
+    OR LOWER(c.original_title) = '973'
+    OR LOWER(c.original_title) LIKE '%les fables du caillou%'
+    OR LOWER(c.original_title) LIKE '%karata an mas avec génie%'
+    OR LOWER(c.original_title) LIKE '%conte pour elle%'
+    OR LOWER(c.original_title) = 'i feel food'
+    OR LOWER(c.original_title) LIKE '%les couples dominos%'
+    OR LOWER(c.original_title) LIKE '%attends et survie%'
+    OR LOWER(c.original_title) = 'la casa des papayes'
+    OR LOWER(c.original_title) LIKE '%à la recherche de zamroza%'
+    OR LOWER(c.original_title) = 'je n\'oublie pas' )
+    GROUP BY ID_CLIENT, c.original_title)
+
+SELECT COUNT(DISTINCT CRM.ID_ABONNE), content.original_title
+FROM PRD_DWH.CPI_CUSTOMER.CRMFH_MOIS_PARCACTIFFML CRM
+INNER JOIN content ON CRM.id_client = content.ID_CLIENT
+WHERE CRM.ID_PROVENANCE = 1
+--AND CRM.FLG_PARC_ACTIF = 1
+AND ((crm.dat_deb_abo between '2023-10-01' and '2024-02-29') OR (crm.dat_fin_abo between '2023-10-01' and '2024-02-29') OR (crm.dat_deb_abo <= '2023-10-01' and crm.dat_fin_abo >= '2023-10-01'))
+GROUP BY content.original_title;
+
+         
+
+WITH content AS (
+    SELECT
+    CASE
+        WHEN ID_PERSON LIKE '5%' AND REGEXP_LIKE(ID_PERSON, '^[0-9]+$') THEN
+            TO_NUMBER(ID_PERSON) - 5000000000000 + 100000000
+        ELSE NULL
+    END AS ID_CLIENT,
+    CASE
+        WHEN LOWER(c.original_title) LIKE '%la casa des papayes%' THEN 'La casa des papayes'
+        WHEN LOWER(c.original_title) LIKE '%les fables du caillou%' THEN 'Les fables du Caillou'
+        ELSE c.original_title
+    END AS Cor_original_title
+    FROM PRD_HUB.WW_ANONYMOUS.V_SOCLE_VIDEO sv
+    INNER JOIN PRD_DWH.WW_CONTENT.CONTENT c ON c.Content_id = sv.id_content
+    WHERE sv.data_source LIKE 'socle_international'
+        AND sv.zone = 'cpant'
+        AND sv.session_start_date_utc BETWEEN '2023-10-01' AND '2024-02-29'
+        AND sv.SESSION_DURATION >= 60
+        AND (
+            LOWER(c.original_title) LIKE '%magmas 76%' OR
+            LOWER(c.original_title) LIKE '%rudy gobert n°27%' OR
+            LOWER(c.original_title) LIKE '%obésité, l''insoutenable quête de légèreté%' OR
+            LOWER(c.original_title) LIKE '%avec naomie%' OR
+            LOWER(c.original_title) LIKE '%la guyane, ma vrai nature%' OR
+            LOWER(c.original_title) LIKE '%pierre-edouard décimus%' OR
+            LOWER(c.original_title) LIKE '%le zouk et la prière des oiseaux%' OR
+            LOWER(c.original_title) LIKE '%changeons!%' OR
+            LOWER(c.original_title) = 'lyrics' OR
+            LOWER(c.original_title) = 'loxymore' OR
+            LOWER(c.original_title) = '973' OR
+            LOWER(c.original_title) LIKE '%les fables du caillou%' OR
+            LOWER(c.original_title) LIKE '%karata an mas avec génie%' OR
+            LOWER(c.original_title) LIKE '%conte pour elle%' OR
+            LOWER(c.original_title) = 'i feel food' OR
+            LOWER(c.original_title) LIKE '%les couples dominos%' OR
+            LOWER(c.original_title) LIKE '%attends et survie%' OR
+            LOWER(c.original_title) = 'la casa des papayes' OR
+            LOWER(c.original_title) LIKE '%à la recherche de zamroza%' OR
+            LOWER(c.original_title) = 'je n''oublie pas'
+        )
+    GROUP BY ID_CLIENT, Cor_original_title
+)
+
+SELECT content.Cor_original_title,COUNT(DISTINCT CRM.ID_ABONNE) Nbe_de_visionnage
+FROM PRD_DWH.CPI_CUSTOMER.CRMFH_MOIS_PARCACTIFFML CRM
+INNER JOIN content ON CRM.id_client = content.ID_CLIENT
+WHERE CRM.ID_PROVENANCE = 1
+--AND CRM.FLG_PARC_ACTIF = 1
+AND (
+    (crm.dat_deb_abo between '2023-10-01' and '2024-02-29') OR
+    (crm.dat_fin_abo between '2023-10-01' and '2024-02-29') OR
+    (crm.dat_deb_abo <= '2023-10-01' and crm.dat_fin_abo >= '2023-10-01')
+)
+GROUP BY content.Cor_original_title
+ORDER by Nbe_de_visionnage desc;
