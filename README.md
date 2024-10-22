@@ -69,18 +69,15 @@ Python, SQL, Dataiku, Excel
 
 ### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
 
-- ***Problématique*** : 
-Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de prédiction du churn.
-
 <p align="center">
   <img src="https://dezyre.gumlet.io/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png?w=800&dpr=1.0" width="1000" height="300" />
 </p>
 
 - ***Objectif de l'analyse*** :
 
-Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
+Le churn, qui désigne la perte d'abonnés, est un indicateur clé pour les entreprises basées sur un modèle d'abonnement. Son analyse permet d'améliorer les services pour réduire ce phénomène.
 
-- L'un de mes projets chez Canal+, consistait à travailler sur le churn des abonnés en utilisant une approche d'analyse prédictive pour anticiper leur désabonnement. Pour atteindre cet objectif, nous avons développé plusieurs modèles de Machine Learning, incluant la régression logistique, les arbres de décision et les forêts aléatoires. Ces modèles nous permettent de prévoir avec une certaine précision quels abonnés sont les plus susceptibles de résilier leurs abonnements. L'impact attendu de ce projet est de réduire significativement le taux de désabonnement. 
+L'un de mes projets chez Canal+ portait sur l'analyse prédictive du churn. Après un travail approfondi sur la qualité des données, incluant des études exploratoires et de l’ingénierie de données, nous avons développé des modèles de Machine Learning, tels que la régression logistique, les arbres de décision et les forêts aléatoires. Ces modèles nous ont permis de prédire avec précision les abonnés les plus susceptibles de se désabonner, avec pour objectif de réduire significativement le taux de churn.
 
 - ***Compétences*** :
   - [x] Maîtrise des ETL et des jointures SQL complexes
