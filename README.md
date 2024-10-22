@@ -115,8 +115,8 @@ SQL, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
-> [!NOTE]
 
+> [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Performance%20de%20la%20nuit%20bonus%20en%20Live%20vs%20Rediff.docx).
 
 
