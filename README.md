@@ -13,7 +13,7 @@
 </p>
 
 ## 🔧 Compétences techniques :
-- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Gestion des données massives (Big Data)
+- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive |Data Quality | Gestion des données massives (Big Data)
 
 ---
 
