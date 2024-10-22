@@ -225,7 +225,7 @@ Python, Pandas, Dataiku
 # Projets académiques
 
 
-### 1. [Optimisation des Stratégies d'Assurance(https://github.com/Samadkod/Samadkod/blob/main/Script_Traitement%20de%20donn%C3%A9es%20%26%20%C3%89conom%C3%A9trie.ipynb)
+### 1. [Optimisation des Stratégies d'Assurance(https://github.com/Samadkod/Samadkod/blob/main/Script_Projet%20data.ipynb)
 
 <p align="center">
 <img src="https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2023.2F07.2F03.2Fff1a337e-fc84-4d25-bbfa-4d8b81839ec7.2Ejpeg/1200x630/cr/wqkgcm9uc3RpayAtIEFkb2JlIFN0b2NrIC8gQ0FQSVRBTA%3D%3D/assurance-auto-lecart-se-creuse-entre-lile-de-france-et-les-regions-1491314.jpg" width="1000" height="300" />
