@@ -1,0 +1,34 @@
+# -*- coding: utf-8 -*-
+import dataiku
+import pandas as pd, numpy as np
+from dataiku import pandasutils as pdu
+
+# Read recipe inputs
+CL_dataset = dataiku.Dataset("PARC_ACTIF_FORMULE_CONSOMMATION_CL")
+CL_df = CL_dataset.get_dataframe()
+
+
+# Compute recipe outputs from inputs
+
+CL_df_filtered=CL_df[CL_df['DURATION_TOTALE_CL']>0]
+saison_stats = CL_df_filtered.groupby('SAISON')['DURATION_TOTALE_CL'].agg(['mean', 'std']).reset_index()
+CL_df = CL_df.merge(saison_stats, on='SAISON', how='left')
+
+def segmentation_CL(row):
+        if row['DURATION_TOTALE_CL'] <= (36000/3) :
+            return 'rare'
+        elif row['DURATION_TOTALE_CL'] <= 36000:
+            return 'occasionnel'
+        elif row['DURATION_TOTALE_CL'] <= (36000 + row['std']):
+            return 'fan'
+        elif row['DURATION_TOTALE_CL'] <= (36000 + 2*row['std']):
+            return 'ultra'
+        else:
+            return 'ultra+'
+       
+CL_df['classification'] = CL_df.apply(segmentation_CL, axis=1)
+
+
+# Write recipe outputs
+SEGMENATION_PARC_ACTIF_CF = dataiku.Dataset("SEGMENATION_PARC_ACTIF_CF")
+SEGMENATION_PARC_ACTIF_CF.write_with_schema(CL_df)
