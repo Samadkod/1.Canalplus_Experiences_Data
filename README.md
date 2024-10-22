@@ -24,7 +24,7 @@
 ### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
 
 <p align="center">
-  <img src="https://relationshipone.com/wp-content/uploads/2024/09/Audience-Segmentation-scaled.jpg" width="1000" height="300" />
+  <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="1000" height="300" />
 </p>
 
 ## Objectif de l'analyse :
