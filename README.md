@@ -41,9 +41,6 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
 ### Outils utilisés :
 - SQL, Excel, PowerPoint
 
-> [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](#)
-
 ---
 ### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](#)
 
@@ -66,7 +63,6 @@ Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fid�
 Python, SQL, Dataiku, Excel
 
 ---
-
 ### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](#)
 
 <p align="center">
@@ -93,7 +89,6 @@ L'un de mes projets chez Canal+ portait sur l'analyse prédictive du churn. Apr�
 ### Outils utilisés :
 SQL, Excel, Python, PowerPoint
 
-
 ---
 
 ### 4. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
@@ -113,12 +108,7 @@ SQL, Excel, Python, PowerPoint
   - **Résultat** : Optimisation des stratégies de diffusion en identifiant les sous titres ou les periodes les plus engageantes.
  
 ### Outils utilisés :
-SQL via Snowflake, Excel, Python, PowerPoint
-
-
-> [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [#).
-
+SQL via Snowflake, Excel, Python, PowerPoint.
 
 ---
 ### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](#)
@@ -148,6 +138,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
     - [x] optimisation des stratégies de contenu.
           
   - **Résultat** : Amélioration de la stratégie de contenu sur les plateformes partenaires grâce à l’identification des meilleures émissions.
+
 ---
 
 ## 7. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
