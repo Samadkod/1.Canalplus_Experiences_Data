@@ -176,13 +176,17 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ### 3. [Prédiction des HFTs en trading](https://github.com/Samadkod/Samadkod/blob/main/code_forecast_Samad%20M2IE.R)
    - **Description** : Prédiction des High-Frequency Trades (HFTs) en utilisant des algorithmes de machine learning avancés.
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:624/0*YvMkQge8LgTncdOx.png" width="1000" height="300" />
+</p>
    - **Compétences acquises** : Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
    - **Outils utilisés** : Python, R
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx)
-> > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx)
+> > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf)
 ---
 
 # 📊 Statistiques GitHub
