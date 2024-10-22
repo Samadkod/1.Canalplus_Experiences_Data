@@ -31,12 +31,13 @@
 - L'objectif de cette analyse est de comprendre la performance des matchs de la Ligue 1 sur le territoire des Outre-Mer. En fonction de la performance et de l'appétence de nos consommateurs pour ce programme, nous estimerons ensuite la valorisation de ce droit de diffusion afin de comprendre l'importance et l'impact que la perte de ce droit peut avoir sur le churn et le downgrade de nos abonnés.
 
 - **Compétences acquises** :
-  - [x] Maîtrise des CTE (WITH) ,Maîtrise des CTE (WITH), SQL avancé via des jointures SQL complexes.
+  - [x] Maîtrise des CTE (WITH), SQL avancé via des jointures SQL complexes.
   - [x] Segmentation des utilisateurs basée sur la consommation de contenu
   - [x] synthèse des résultats pour les métiers.
   - [x] Génération de graphiques adaptés aux types de données
 
-  - **Résultat** :Segmentation des utilisateurs basée sur la consommation de contenu et estimation de l’impact du churn potentiel dû à la perte des droits de diffusion.
+  - **Résultat** :
+  - Segmentation des utilisateurs basée sur la consommation de contenu et estimation de l’impact du churn potentiel dû à la perte des droits de diffusion.
 
 ### Outils utilisés :
 SQL, Excel, PowerPoint
