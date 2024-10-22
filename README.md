@@ -101,7 +101,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 
 
-### 4. [Analyse d'Audience des Chaînes Islamiques Africaines](#)
+### 4. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Perf_ramadan.txt)
 - Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
