@@ -93,9 +93,6 @@ L'un de mes projets chez Canal+ portait sur l'analyse prédictive du churn. Apr�
 ### Outils utilisés :
 SQL, Excel, Python, PowerPoint
 
-> [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt](#)
-
 
 ---
 
