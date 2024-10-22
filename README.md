@@ -39,10 +39,9 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
   - [x] Création de graphiques et visualisations pour représenter l'engagement selon les territoires.
 
 ### Outils utilisés :
-SQL, Excel, PowerPoint
+- SQL, Excel, PowerPoint
 
 > [!NOTE]
-
 > Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 
