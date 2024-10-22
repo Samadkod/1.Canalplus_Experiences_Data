@@ -41,12 +41,13 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
 ### Outils utilisés :
 SQL, Excel, PowerPoint
 
-> [!NOTE]  
+> [!NOTE]
+
 > Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
 
+---
 ### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Segmentation%20parc%20de%20la%20LDC.txt)
-
 <p align="center">
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="1000" height="300" />
 </p>
@@ -67,6 +68,8 @@ Python, SQL, Dataiku, Excel
 
 > [!NOTE]  
 > Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation des abonnés Champions League](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION_CL.txt)
+
+
 
 ---
 
@@ -101,6 +104,7 @@ SQL, Excel, Python, PowerPoint
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt](#)
+
 
 ---
 
@@ -141,8 +145,9 @@ SQL via Snowflake, Excel, Python, PowerPoint
 - [x] Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
 - [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
 
----
 
+
+---
 
 ### 6. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](https://github.com/Samadkod/Samadkod/blob/main/Apple%20TV.txt)
 - Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
@@ -179,6 +184,8 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
+---
+
 ### 8. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](https://github.com/Samadkod/Mon-portfolio_data/blob/main/EXTRACTION_CALENDRIER_EURO.txt)
 
 <p align="center">
@@ -202,10 +209,13 @@ Python, Pandas, Requests, Dataiku
 > [!NOTE]
 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Flashscore%20(1).ipynb).
+
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Script_programmes_NBA.ipynb).
 
 
-### 9. [Classification des abonnés de la Ligue 1 selon leur consommation](https://github.com/Samadkod/Mon-portfolio_data/blob/main/CLASSIFICATION_L1.txt)
+---
+
+### 9. [Classification des abonnés de la Ligue 1 selon leur consommation](https://github.com/Samadkod/Samadkod/blob/main/Analyse%20RISK.txt)
 
 <p align="center">
   <img src="https://www.ariase.com/uploads/media/ac1027b89a8b7c11ea60700da77ae9f30282368f.jpeg" width="1000" height="300" />
@@ -214,7 +224,7 @@ Python, Pandas, Requests, Dataiku
 ## Objectif de l'analyse :
 - L'objectif de ce projet est de **classer les abonnés de la Ligue 1** selon leur niveau de consommation, en tenant compte des saisons 2022/2023 et 2023/2024. Cette segmentation permet de distinguer trois catégories d'abonnés : **faible**, **moyen**, et **haut**, en fonction du temps passé à visionner les matchs.
   
-  En analysant la consommation totale des abonnés, nous pouvons mieux comprendre leur engagement et **cibler les actions marketing** pour améliorer la rétention, notamment pour ceux ayant un engagement faible.
+En analysant la consommation totale des abonnés, nous pouvons mieux comprendre leur engagement et **cibler les actions marketing** pour améliorer la rétention, notamment pour ceux ayant un engagement faible.
 
 - **Compétences acquises** :
   - [x] Utilisation de **Pandas** pour appliquer des règles de classification sur les abonnés.
@@ -236,10 +246,16 @@ Python, Pandas, Dataiku
 
    - **Mention :** Mention excellente obtenue pour ce projet.
    - **Compétences acquises** : Régression GLM, prédiction, nettoyage des données, modélisation avancée.
-   - **Outils utilisés** : Python, SQL, Tableau
+   - **Outils utilisés** : Python, Excel 
+
+> [!NOTE]
+
+> Vous pouvez consulter les ressources de ce projet via ce lien : [#).
+
+> Vous pouvez consulter les ressources de ce projet via ce lien : [#).
+
    
 ---
-
 
 ### 2. [Dataviz sur l'octroi de crédit bancaire par région](https://github.com/Samadkod/Samadkod/blob/main/REPORTING%201.png)
    - **Description** :
