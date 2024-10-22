@@ -36,9 +36,6 @@
   - [x] synthèse des résultats pour les métiers.
   - [x] Génération de graphiques adaptés aux types de données
 
-  - **Résultat** :
-  - Segmentation des utilisateurs basée sur la consommation de contenu et estimation de l’impact du churn potentiel dû à la perte des droits de diffusion.
-
 ### Outils utilisés :
 SQL, Excel, PowerPoint
 
@@ -46,9 +43,6 @@ SQL, Excel, PowerPoint
 > Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
 
 ---
-
-
-
 
 ### 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
