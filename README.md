@@ -44,6 +44,31 @@ SQL, Excel, PowerPoint
 > [!NOTE]  
 > Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation de l'audience de la Ligue 1 dans les DROM](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
 
+
+
+### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
+
+<p align="center">
+  <img src="https://www.footballcoin.io/wp-content/uploads/2020/11/Champions-League-top-teams.png" width="1000" height="300" />
+</p>
+
+## Objectif de l'analyse :
+- L'objectif de cette analyse est de segmenter les abonnés en fonction de leur **consommation des matchs de la Champions League (CL)**. En fonction du comportement de visionnage, nous avons créé des groupes d'abonnés (de "rare" à "ultra+") pour mieux comprendre leur engagement et adapter les actions marketing.
+  
+Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fidèles et proposer des offres personnalisées pour maximiser leur satisfaction tout en réduisant le churn (désabonnement).
+
+- **Compétences acquises** :
+  - [x] Maîtrise des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations par saison.
+  - [x] Création d'un modèle de **segmentation des abonnés** basé sur la durée de consommation.
+  - [x] Synthèse des résultats pour les équipes marketing afin de **cibler les actions** en fonction du segment.
+  - [x] Automatisation des processus d'analyse via **Dataiku**.
+
+### Outils utilisés :
+Python, SQL, Dataiku, Excel
+
+> [!NOTE]  
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation des abonnés Champions League](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION_CL.txt)
+
 ---
 
 ### 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
@@ -56,7 +81,8 @@ Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de p
 </p>
 
 - ***Objectif de l'analyse*** :
-- Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
+
+Le churn, terme qui désigne la perte d’abonnés ou de clientèle, est un indicateur de performance crucial pour les entreprises dont le modèle économique repose sur l’abonnement à un service. Étudier le churn permet d’améliorer l’offre proposée par le service afin de réduire la perte d'abonnés.
 
 - L'un de mes projets chez Canal+, consistait à travailler sur le churn des abonnés en utilisant une approche d'analyse prédictive pour anticiper leur désabonnement. Pour atteindre cet objectif, nous avons développé plusieurs modèles de Machine Learning, incluant la régression logistique, les arbres de décision et les forêts aléatoires. Ces modèles nous permettent de prévoir avec une certaine précision quels abonnés sont les plus susceptibles de résilier leurs abonnements. L'impact attendu de ce projet est de réduire significativement le taux de désabonnement. 
 
@@ -101,31 +127,6 @@ SQL via Snowflake, Excel, Python, PowerPoint
 > [!NOTE]
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Performance%20de%20la%20nuit%20bonus%20en%20Live%20vs%20Rediff.docx).
-
----
-
-### 4. [Segmentation parc abonnés de la ligue des champions via dataiku](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
-
-<p align="center">
-  <img src="https://www.footballcoin.io/wp-content/uploads/2020/11/Champions-League-top-teams.png" width="1000" height="300" />
-</p>
-
-## Objectif de l'analyse :
-- L'objectif de cette analyse est de segmenter les abonnés en fonction de leur **consommation des matchs de la Champions League (CL)**. En fonction du comportement de visionnage, nous avons créé des groupes d'abonnés (de "rare" à "ultra+") pour mieux comprendre leur engagement et adapter les actions marketing.
-  
-Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fidèles et proposer des offres personnalisées pour maximiser leur satisfaction tout en réduisant le churn (désabonnement).
-
-- **Compétences acquises** :
-  - [x] Maîtrise des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations par saison.
-  - [x] Création d'un modèle de **segmentation des abonnés** basé sur la durée de consommation.
-  - [x] Synthèse des résultats pour les équipes marketing afin de **cibler les actions** en fonction du segment.
-  - [x] Automatisation des processus d'analyse via **Dataiku**.
-
-### Outils utilisés :
-Python, SQL, Dataiku, Excel
-
-> [!NOTE]  
-> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation des abonnés Champions League](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION_CL.txt)
 
 
 ---
