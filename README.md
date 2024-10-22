@@ -167,8 +167,12 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ### 2. [Dataviz sur l'octroi de crédit bancaire par région](#)
    - **Description** : Visualisation de l’octroi de crédit bancaire selon les régions pour comprendre les disparités géographiques.
+
+     <p align="center">
+<img src="https://static.medias24.com/content/uploads/2022/06/09/credit-fotolia_91049448_Subscription_Monthly_M-640x3120-1.jpg?x19712" width="1000" height="300" />
+</p>
    - **Compétences acquises** : Data cleaning, analyse descriptive, visualisation des données.
-   -  - **Mention :** Mention Bien obtenue pour ce projet.
+   - **Mention :** Mention Bien obtenue pour ce projet.
    - **Outils utilisés** : Python, Tableau, Power BI
    - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
 
@@ -178,15 +182,16 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Description** : Prédiction des High-Frequency Trades (HFTs) en utilisant des algorithmes de machine learning avancés.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:624/0*YvMkQge8LgTncdOx.png" width="1000" height="300" />
+<img src="https://miro.medium.com/v2/resize:fit:624/0*YvMkQge8LgTncdOx.png" width="1000" height="300" />
 </p>
-   - **Compétences acquises** : Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
+   - **Compétences acquises** : 
+   - Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
    - **Outils utilisés** : Python, R
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx)
-> > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf).
 ---
 
 # 📊 Statistiques GitHub
