@@ -65,11 +65,6 @@ Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fid�
 ### Outils utilisés :
 Python, SQL, Dataiku, Excel
 
-> [!NOTE]  
-> Vous pouvez consulter les ressources de ce projet via ce lien : [Segmentation des abonnés Champions League](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION_CL.txt)
-
-
-
 ---
 
 ### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
