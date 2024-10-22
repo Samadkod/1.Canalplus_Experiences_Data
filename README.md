@@ -180,6 +180,29 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ### Outils utilisés :
 SQL via Snowflake, Excel, Python, PowerPoint
 
+### 2. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](https://github.com/Samadkod/Mon-portfolio_data/blob/main/EXTRACTION_CALENDRIER_EURO.txt)
+
+<p align="center">
+  <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-05/240509-nba-game-ch-1311-f72588.jpg" width="1000" height="300" />
+</p>
+
+## Objectif de l'analyse :
+- Cette analyse a pour objectif de récupérer automatiquement les **données des matchs de la NBA ou de l'Euro 2024** via l'API Football Data. Nous avons extrait des informations clés comme les **dates de matchs**, **équipes participantes**, et **scores** pour créer un dataset exploitable à des fins d'analyse et de visualisation.
+  
+  En exploitant ces données en temps réel, il est possible de créer des tableaux de bord pour suivre les performances des équipes ou détecter des tendances de jeu pendant le tournoi.
+
+- **Compétences acquises** :
+  - [x] Récupération des données via une API avec une clé d'authentification.
+  - [x] Utilisation de **Pandas** pour transformer et organiser les données de manière efficace.
+  - [x] Manipulation des données temporelles (séparation des dates et heures).
+  - [x] Intégration et stockage des données dans un dataset Dataiku pour des analyses futures.
+
+### Outils utilisés :
+Python, Pandas, Requests, Dataiku
+
+> [!NOTE]  
+> 
+
 
 ---
 # Projets académiques
