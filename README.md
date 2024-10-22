@@ -67,7 +67,7 @@ Python, SQL, Dataiku, Excel
 
 ---
 
-### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
+### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](#)
 
 <p align="center">
   <img src="https://dezyre.gumlet.io/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png?w=800&dpr=1.0" width="1000" height="300" />
@@ -96,7 +96,7 @@ SQL, Excel, Python, PowerPoint
 
 ---
 
-### 4. [Analyse de la Performance de la Nuit Bonus en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Projets%20nuit%20bonus.txt)
+### 4. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
 - L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
 
 <p align="center">
@@ -117,11 +117,11 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Performance%20de%20la%20nuit%20bonus%20en%20Live%20vs%20Rediff.docx).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [#).
 
 
 ---
-### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](https://github.com/Samadkod/Samadkod/blob/main/Perf_ramadan.txt)
+### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](#)
 - Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
@@ -133,11 +133,9 @@ SQL via Snowflake, Excel, Python, PowerPoint
 - [x] Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
 - [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
 
-
-
 ---
 
-### 6. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](https://github.com/Samadkod/Samadkod/blob/main/Apple%20TV.txt)
+### 6. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
 - Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
 
 <p align="center">
