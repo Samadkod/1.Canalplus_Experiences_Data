@@ -250,7 +250,7 @@ L'analyse inclut des données sur l'utilisation des véhicules, les comportement
    
 ---
 
-### 2. [Dataviz sur l'octroi de crédit bancaire par région](https://github.com/Samadkod/Samadkod/blob/main/REPORTING%201.png)
+### 2. [Dataviz sur l'octroi de crédit bancaire selon différents KPI](https://github.com/Samadkod/Samadkod/blob/main/REPORTING%201.png)
    - **Description** :
    - Visualisation de l’octroi de crédit bancaire selon les régions pour comprendre les disparités géographiques.
 
@@ -259,7 +259,6 @@ L'analyse inclut des données sur l'utilisation des véhicules, les comportement
 </p>
 
  - **Compétences acquises** : Data cleaning, analyse descriptive, visualisation des données.
-   - **Mention :** Mention Bien obtenue pour ce projet.
    - **Outils utilisés** : Python, Tableau, Power BI
    - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
 
