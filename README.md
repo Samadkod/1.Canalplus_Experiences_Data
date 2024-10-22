@@ -150,7 +150,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
   - **Résultat** : Amélioration de la stratégie de contenu sur les plateformes partenaires grâce à l’identification des meilleures émissions.
 ---
 
-## 7. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](https://github.com/Samadkod/Samadkod/blob/main/Perf_creation_orig.txt)
+## 7. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
 - Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
 
 <p align="center">
@@ -172,7 +172,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ---
 
-### 8. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](https://github.com/Samadkod/Mon-portfolio_data/blob/main/EXTRACTION_CALENDRIER_EURO.txt)
+### 8. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](#)
 
 <p align="center">
   <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-05/240509-nba-game-ch-1311-f72588.jpg" width="1000" height="300" />
@@ -200,7 +200,7 @@ Python, Pandas, Requests, Dataiku
 
 ---
 
-### 9. [Classification des abonnés de la Ligue 1 selon leur consommation](https://github.com/Samadkod/Samadkod/blob/main/Analyse%20RISK.txt)
+### 9. [Classification des abonnés de la Ligue 1 selon leur consommation](#)
 
 <p align="center">
   <img src="https://www.ariase.com/uploads/media/ac1027b89a8b7c11ea60700da77ae9f30282368f.jpeg" width="1000" height="300" />
