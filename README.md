@@ -184,7 +184,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
    > [!NOTE]
 > 
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf)
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx).
 > 
