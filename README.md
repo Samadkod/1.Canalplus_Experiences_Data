@@ -236,9 +236,7 @@ Python, Pandas, Dataiku
    - **Outils utilisés** : Python, Excel 
 
 > [!NOTE]
-
 > Vous pouvez consulter les ressources de ce projet via ce lien : [#).
-
 > Vous pouvez consulter les ressources de ce projet via ce lien : [#).
 
    
@@ -258,11 +256,8 @@ Python, Pandas, Dataiku
    - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
 
 > [!NOTE]
-> 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf).
-> 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Report_KPI.pdf).
-> 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Dataset_1.xlsx).
 ---
 
