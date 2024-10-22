@@ -180,8 +180,8 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Outils utilisés** : Python, R
 
      > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
-
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
 ---
 
 # 📊 Statistiques GitHub
