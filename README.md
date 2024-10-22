@@ -186,7 +186,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf)
 > 
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Report_KPI.pdf).
 > 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf).
 
