@@ -1,0 +1,32 @@
+# -*- coding: utf-8 -*-
+import dataiku
+import pandas as pd, numpy as np
+from dataiku import pandasutils as pdu
+
+# Read recipe inputs
+L1_dataset = dataiku.Dataset("PARC_ACTIF_FORMULE_CONSOMMATION_L1")
+L1_df = L1_dataset.get_dataframe()
+
+
+def classify_abonne(row):
+    if row['SAISON'] == '2022/2023':
+        if row['DURATION_TOTALE_L1'] <= 23400 :
+            return 'faible'
+        elif row['DURATION_TOTALE_L1'] <= 46800:
+            return 'moyen'
+        else:
+            return 'haut'
+    elif row['SAISON'] == '2023/2024':
+        if row['DURATION_TOTALE_L1'] <= 61200:
+            return 'faible'
+        elif row['DURATION_TOTALE_L1'] <= 122400:
+            return 'moyen'
+        else:
+            return 'haut'
+       
+       
+L1_df['risk'] = L1_df.apply(classify_abonne, axis=1)
+
+# Write recipe outputs
+RISK_PARC_ACTIF_L1 = dataiku.Dataset("RISK_PARC_ACTIF_L1")
+RISK_PARC_ACTIF_L1.write_with_schema(L1_df)
