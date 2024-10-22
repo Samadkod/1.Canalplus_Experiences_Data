@@ -178,6 +178,10 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Description** : Prédiction des High-Frequency Trades (HFTs) en utilisant des algorithmes de machine learning avancés.
    - **Compétences acquises** : Machine learning (algorithmes avancés), analyse de séries temporelles, prédiction des comportements de trading.
    - **Outils utilisés** : Python, R
+
+     > [!NOTE]
+> Vous pouvez consulter les ressources de ce projet via ce lien : [SEGMENTATION ligue 1.txt](https://github.com/Samadkod/Mon-portfolio_data/blob/main/SEGMENTATION%20ligue%201.txt)
+
 ---
 
 # 📊 Statistiques GitHub
