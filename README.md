@@ -116,7 +116,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
 ---
 
 
-### 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
+### 5. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](https://github.com/Samadkod/Samadkod/blob/main/Apple%20TV.txt)
 - Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience.
 
 <p align="center">
