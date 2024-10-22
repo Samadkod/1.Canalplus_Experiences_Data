@@ -30,7 +30,7 @@
 ## Objectif de l'analyse :
 - Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans les **territoires d'Outre-Mer (DROM)** . Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
   
-En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment en dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
+En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
 
 - **Compétences acquises** :
   - [x] Analyse des comportements de visionnage par région géographique.
