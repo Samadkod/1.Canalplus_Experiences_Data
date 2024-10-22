@@ -44,7 +44,7 @@ SQL, Excel, PowerPoint
 
 ---
 
-### 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Mon-portfolio_data/blob/main/Segmentation%20des%20abonn%C3%A9s%20de%20Ligue%201%20dans%20les%20DROM.pptx.pdf)
+### 2. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt)
 
 - ***Problématique*** : 
 Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de prédiction du churn.
@@ -71,7 +71,7 @@ Analyse du comportement des abonnés Canal+ et mise en place d’un modèle de p
 SQL, Excel, Python, PowerPoint
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [prediction churn.txt](#)
+> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Extract%20projet_Churn.txt](#)
 
 ---
 
