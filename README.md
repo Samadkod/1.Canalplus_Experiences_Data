@@ -125,8 +125,8 @@ SQL via Snowflake, Excel, Python, PowerPoint.
 
 ---
 
-### 6. [Évaluation de la Performance des Chaînes Partenaires (Apple TV+, Paramount+)](#)
-- Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ (Apple TV+, Paramount+), en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
+### 6. [Évaluation de la Performance des Chaînes Partenaires](#)
+- Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ , en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
 
 <p align="center">
   <img src="https://images.frandroid.com/wp-content/uploads/2022/12/canal-disney-paramount-1.jpg" width="1000" height="300" />
