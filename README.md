@@ -159,11 +159,17 @@ SQL via Snowflake, Excel, Python, PowerPoint
 
 ### 1. [Optimisation des tarifs en assurance auto](https://github.com/Samadkod/Samadkod/blob/main/Script_Traitement%20de%20donn%C3%A9es%20%26%20%C3%89conom%C3%A9trie.ipynb)
    - **Description** : Modélisation prédictive pour optimiser les tarifs des assurances via des techniques de machine learning.
+
+<p align="center">
+<img src="https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2023.2F07.2F03.2Fff1a337e-fc84-4d25-bbfa-4d8b81839ec7.2Ejpeg/1200x630/cr/wqkgcm9uc3RpayAtIEFkb2JlIFN0b2NrIC8gQ0FQSVRBTA%3D%3D/assurance-auto-lecart-se-creuse-entre-lile-de-france-et-les-regions-1491314.jpg" width="1000" height="300" />
+</p>
    - **Mention :** Mention excellente obtenue pour ce projet.
    - **Compétences acquises** : Régression GLM, prédiction, nettoyage des données, modélisation avancée.
    - **Outils utilisés** : Python, SQL, Tableau
    
 ---
+
+
 
 ### 2. [Dataviz sur l'octroi de crédit bancaire par région](#)
    - **Description** : Visualisation de l’octroi de crédit bancaire selon les régions pour comprendre les disparités géographiques.
@@ -189,8 +195,11 @@ SQL via Snowflake, Excel, Python, PowerPoint
    - **Outils utilisés** : Python, R
 
 > [!NOTE]
+> 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Projet%20-%20FORECAST_%20M2%20IE.pdf)
+> 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/amf_data.xlsx).
+> 
 > Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Info_base_donn%C3%A9es_amf_data.pdf).
 ---
 
