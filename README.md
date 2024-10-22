@@ -39,7 +39,7 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
   - [x] Création de graphiques et visualisations pour représenter l'engagement selon les territoires.
 
 ### Outils utilisés :
-- SQL, Excel, PowerPoint
+- SQL, Excel, Power BI, PowerPoint
 
 ---
 ### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](#)
@@ -60,7 +60,7 @@ Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fid�
   - [x] Automatisation des processus d'analyse via **Dataiku**.
 
 ### Outils utilisés :
-Python, SQL, Dataiku, Excel
+Python, SQL, Power BI, Dataiku, Excel
 
 ---
 ### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](#)
@@ -108,7 +108,7 @@ SQL, Excel, Python, PowerPoint
   - **Résultat** : Optimisation des stratégies de diffusion en identifiant les sous titres ou les periodes les plus engageantes.
  
 ### Outils utilisés :
-SQL via Snowflake, Excel, Python, PowerPoint.
+SQL, Excel, Python, Power BI, PowerPoint.
 
 ---
 ### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](#)
@@ -159,7 +159,7 @@ SQL via Snowflake, Excel, Python, PowerPoint.
   - [x] Synthèse des résultats à destination des métiers
 
 ### Outils utilisés :
-SQL via Snowflake, Excel, Python, PowerPoint
+SQL, Excel, Python, PowerPoint
 
 ---
 
@@ -181,8 +181,7 @@ SQL via Snowflake, Excel, Python, PowerPoint
   - [x] Intégration et stockage des données dans un dataset Dataiku pour des analyses futures.
 
 ### Outils utilisés :
-Python, Pandas, Requests, Dataiku
-
+Python, Requests, Dataiku
 
 ---
 
@@ -203,7 +202,7 @@ En analysant la consommation totale des abonnés, nous pouvons mieux comprendre 
   - [x] Traitement des données via Dataiku et export des résultats pour des analyses futures.
 
 ### Outils utilisés :
-Python, Pandas, Dataiku
+SQL, Python, Dataiku
 
 ---
 # Projets académiques
