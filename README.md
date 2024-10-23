@@ -204,6 +204,30 @@ En analysant la consommation totale des abonnés, nous pouvons mieux comprendre 
 ### Outils utilisés :
 SQL, Python, Dataiku
 
+
+### 10. [Reformatage de Code SAS en SQL et Migration vers Dataiku](#)
+
+<p align="center"> <img src="https://cdn.prod.website-files.com/6603bc85bc604431b3053166/6633ecea792854e4f20d13bf_663160c9bd1f9397bc8fafaf_Image-2-1.png" width="1000" height="300" /> </p>
+
+- **Description** :
+- L'un des principaux défis de mon stage chez Canal+ a été de reformater le code SAS existant en SQL pour faciliter une meilleure gestion et intégration des données dans Snowflake. Ce projet visait à améliorer la performance, à simplifier la gestion des données et à préparer l’automatisation des processus via Dataiku, une plateforme avancée d’analyse de données.
+
+- Après la conversion du code en SQL, j'ai pris l'initiative de créer des tables adaptées dans Snowflake, optimisant ainsi la manipulation des données. Ensuite, nous avons utilisé Dataiku pour automatiser l'envoi de courriels concernant les projets d’abonnement gratuit, une tâche qui était initialement réalisée manuellement.
+
+- **Compétences acquises** :
+- [x] **Reformatage de code** : Conversion du code SAS en SQL pour une intégration plus fluide dans Snowflake.
+- [x] **Création et gestion de tables** : Construction de tables adaptées pour améliorer la gestion des données dans Snowflake.
+- [x] **Automatisation des processus** : Utilisation de Dataiku pour automatiser les tâches manuelles, notamment l’envoi de courriels, ce qui a significativement amélioré l'efficacité opérationnelle.
+- **Outils utilisés** :
+- SAS pour la gestion initiale des données.
+- SQL pour la réécriture du code et la gestion des données dans Snowflake.
+- Dataiku pour l’automatisation des processus.
+  
+- **Résultat** :
+Le projet a permis une réduction des erreurs humaines et une amélioration significative de l'efficacité opérationnelle grâce à l’automatisation des tâches répétitives via Dataiku. Cela a libéré du temps pour se concentrer sur des tâches plus stratégiques au sein de l'équipe.
+[!NOTE]
+- Ce projet démontre l'importance de l'automatisation dans les grandes entreprises et comment la transformation des workflows peut générer des gains de productivité considérables
+
 ---
 # Projets académiques
 
