@@ -241,11 +241,12 @@ L'analyse inclut des données sur l'utilisation des véhicules, les comportement
 
 - Ce projet combine une modélisation prédictive et une visualisation des données pour analyser l'octroi de crédit bancaire. Le but est de prédire la probabilité qu'un crédit soit accordé ou non à l'aide d'un modèle de régression logistique développé sous R. En parallèle, j'ai réalisé un travail de dataviz sous SAS ODS et Power BI pour un travail de dashbord. 
 
-Compétences acquises :
-[x]  Data cleaning : Nettoyage et préparation des données pour garantir la qualité des résultats.
-[x]  Analyse descriptive : Analyse exploratoire des données pour comprendre les tendances clés.
-[x]  Modélisation prédictive : Mise en place d’un modèle de régression logistique pour prédire l'octroi de crédit.
-[x]  Visualisation de données : Création de tableaux de bord interactifs avec Power BI pour visualiser les disparités géographiques.
+- **Compétences acquises** :
+  
+- [x] Data cleaning : Nettoyage et préparation des données pour garantir la qualité des résultats.
+- [x] Analyse descriptive : Analyse exploratoire des données pour comprendre les tendances clés.
+- [x] Modélisation prédictive : Mise en place d’un modèle de régression logistique pour prédire l'octroi de crédit.
+- [x] Visualisation de données : Création de tableaux de bord interactifs avec Power BI pour visualiser les disparités géographiques.
  
 Outils utilisés :
 - R pour le traitement, la manipulation et la modélisation
@@ -254,9 +255,9 @@ Outils utilisés :
  - **Résultat** : Présentation de visualisations claires permettant d'identifier les régions à fort potentiel de crédit.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf).
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Report_KPI.pdf).
-> Vous pouvez consulter les ressources de ce projet via ce lien : [https://github.com/Samadkod/Samadkod/blob/main/Dataset_1.xlsx).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Glossaire](https://github.com/Samadkod/Samadkod/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf).
+> Vous pouvez consulter les ressources de ce projet via ce lien : [Rapport_KPI](https://github.com/Samadkod/Samadkod/blob/main/Report_KPI.pdf).
+> Vous pouvez consulter les ressources de ce projet via ce lien :  [Input](https://github.com/Samadkod/Samadkod/blob/main/Dataset_1.xlsx).
 
 ---
 
