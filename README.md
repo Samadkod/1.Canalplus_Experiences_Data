@@ -204,7 +204,7 @@ En analysant la consommation totale des abonnés, nous pouvons mieux comprendre 
 ### Outils utilisés :
 SQL, Python, Dataiku
 
-
+---
 ### 10. [Reformatage de Code SAS en SQL et Migration vers Dataiku](#)
 
 <p align="center"> <img src="https://cdn.prod.website-files.com/6603bc85bc604431b3053166/6633ecea792854e4f20d13bf_663160c9bd1f9397bc8fafaf_Image-2-1.png" width="1000" height="300" /> </p>
@@ -225,8 +225,9 @@ SQL, Python, Dataiku
   
 - **Résultat** :
 Le projet a permis une réduction des erreurs humaines et une amélioration significative de l'efficacité opérationnelle grâce à l’automatisation des tâches répétitives via Dataiku. Cela a libéré du temps pour se concentrer sur des tâches plus stratégiques au sein de l'équipe.
-[!NOTE]
-- Ce projet démontre l'importance de l'automatisation dans les grandes entreprises et comment la transformation des workflows peut générer des gains de productivité considérables
+
+>[!NOTE]
+> Ce projet démontre l'importance de l'automatisation dans les grandes entreprises et comment la transformation des workflows peut générer des gains de productivité considérables
 
 ---
 # Projets académiques
