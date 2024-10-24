@@ -205,7 +205,28 @@ En analysant la consommation totale des abonnés, nous pouvons mieux comprendre 
 SQL, Python, Dataiku
 
 ---
-### 10. [Reformatage de Code SAS en SQL et Migration vers Dataiku](#)
+### 10. [Rapports de performances consolidées OTT|SAT via la conso sur myCANAL dans Dataiku](#)
+
+<p align="center">
+  <img src="https://thumb.canalplus.pro/http/unsafe/1344x756/smart/creativemedia-image.canalplus.pro/content/0001/51/39a60c958216bca5cbbb627771daa47bdf18a8ba.png" width="1000" height="300" />
+</p>
+
+## Objectif de l'analyse :
+- Ce projet vise à **automatiser la génération de rapports de performances** consolidées pour les abonnés OTT/SAT, en incluant la consommation sur **myCANAL**.
+- L’objectif est d'extraire automatiquement les abonnés actifs par région chaque semaine, de **lundi à dimanche**, pour fournir une vue d'ensemble des performances de la semaine précédente.
+
+Chaque lundi, les abonnés actifs sont comptabilisés par zone géographique, et un **tableau de bord dynamique** permet de visualiser ces performances de manière interactive. Les équipes métiers reçoivent automatiquement les rapports consolidés via un envoi programmé.
+
+- **Compétences acquises** :
+  - [x] Création de requêtes SQL pour extraire automatiquement les données des abonnés actifs par région.
+  - [x] Développement de **dashboards dynamiques** pour suivre les performances par zone géographique.
+  - [x] Programmation de l'envoi automatique des rapports hebdomadaires aux équipes métiers via Dataiku.
+
+### Outils utilisés :
+SQL, Dataiku, Dashboards interactifs
+
+---
+### 11. [Reformatage de Code SAS en SQL et Migration vers Dataiku](#)
 
 <p align="center"> <img src="https://cdn.prod.website-files.com/6603bc85bc604431b3053166/6633ecea792854e4f20d13bf_663160c9bd1f9397bc8fafaf_Image-2-1.png" width="1000" height="300" /> </p>
 
