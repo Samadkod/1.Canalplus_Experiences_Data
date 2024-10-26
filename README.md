@@ -42,7 +42,7 @@
 - SQL, Excel, Power BI, PowerPoint
 
 ---
-### 2. [Segmentation des abonnés visionnant la Ligue des Champions en utilisant Dataiku](#)
+### 2. [Segmentation des abonnés visionnant la Ligue des Champions via Dataiku](#)
 
 <p align="center">
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="1000" height="300" />
