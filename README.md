@@ -21,14 +21,14 @@
 # Projets professionnels
 
 ---
-### 1. [Segmentation de l'audience de la Ligue 1 dans les territoires d'Outre-Mer](#)
+### 1. [Segmentation de l'audience de la Ligue 1](#)
 
 <p align="center">
   <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="1000" height="300" />
 </p>
 
 ## Objectif de l'analyse :
-- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans les **territoires d'Outre-Mer (DROM)** . Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
+- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans notre zones d'études. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
   
 En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
 
