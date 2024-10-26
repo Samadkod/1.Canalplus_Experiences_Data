@@ -21,7 +21,7 @@
 # Projets professionnels
 
 ---
-### 1. [Segmentation de l'audience de la Ligue 1](#)
+### 1. [Segmentation de l'audience des abonnés suivant la Ligue 1](#)
 
 <p align="center">
   <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="1000" height="300" />
@@ -30,7 +30,7 @@
 ## Objectif de l'analyse :
 - Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans notre zones d'études. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
   
-En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
+- En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
 
 - **Compétences acquises** :
   - [x] Analyse des comportements de visionnage par région géographique.
@@ -42,7 +42,7 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
 - SQL, Excel, Power BI, PowerPoint
 
 ---
-### 2. [Segmentation du parc abonnés de la ligue des champions via dataiku](#)
+### 2. [Segmentation des abonnés visionnant la Ligue des Champions en utilisant Dataiku](#)
 
 <p align="center">
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="1000" height="300" />
@@ -51,7 +51,7 @@ En fonction des abonnés et des formules proposées, nous avons analysé la cons
 ## Objectif de l'analyse :
 - L'objectif de cette analyse est de segmenter les abonnés en fonction de leur **consommation des matchs de la Champions League (CL)**. En fonction du comportement de visionnage, nous avons créé des groupes d'abonnés (de "rare" à "ultra+") pour mieux comprendre leur engagement et adapter les actions marketing.
   
-Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fidèles et proposer des offres personnalisées pour maximiser leur satisfaction tout en réduisant le churn (désabonnement).
+- Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fidèles et proposer des offres personnalisées pour maximiser leur satisfaction tout en réduisant le churn (désabonnement).
 
 - **Compétences acquises** :
   - [x] Maîtrise des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations par saison.
