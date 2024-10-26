@@ -14,11 +14,11 @@
 </p>
 
 ## 🔧 Compétences techniques :
-- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive |Data Quality | Gestion des données massives (Big Data)
+- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Data Quality | Gestion des données massives (Big Data)
 
 ---
 
-# Projets professionnels
+# Projets professionnels.
 
 ---
 ### 1. [Segmentation de l'audience des abonnés suivant la Ligue 1](#)
@@ -29,8 +29,6 @@
 
 ## Objectif de l'analyse :
 - Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans notre zones d'études. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
-  
-- En fonction des abonnés et des formules proposées, nous avons analysé la consommation des matchs et les obstacles rencontrés, notamment dans certaines zones où les horaires de diffusion représentent un obstacle majeur.
 
 - **Compétences acquises** :
   - [x] Analyse des comportements de visionnage par région géographique.
