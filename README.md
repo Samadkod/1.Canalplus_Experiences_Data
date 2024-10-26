@@ -1,6 +1,6 @@
 # ![Samadkod](https://github.com/Samadkod/Samadkod/blob/main/twitter-min.jpg) 
 
-# Bonjour, je suis Samadou KODON ! Bienvenue sur mon profil GitHub 👋
+# Bonjour, je suis Samad KODON ! Bienvenue sur mon profil GitHub 👋
 
 - 🔭 **Data Analyst & Scientist | Python | SQL | Data Visualisation & Machine Learning**
 - 🎓 *Major de promotion - Big Data & Data Science à l'Université de Montpellier*
