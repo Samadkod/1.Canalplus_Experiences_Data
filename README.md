@@ -20,45 +20,76 @@
 
 # Projets professionnels.
 
+# Segmentation des Audiences Sportives
+
+<p align="center">
+  <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="400" height="150" />
+  <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="400" height="150" />
+</p>
+
+## Introduction
+
+Ce projet regroupe deux analyses de segmentation d'audience pour deux compétitions majeures, la **Ligue 1** et la **Ligue des Champions**. Bien que les objectifs soient similaires — comprendre les comportements de visionnage pour adapter les stratégies marketing — la méthode de segmentation varie entre les deux analyses.
+
+- **Ligue 1** : Segmentations basées principalement sur des critères géographiques sans recourir aux calculs d'écarts-types.
+- **Ligue des Champions** : Segmentation plus détaillée, incluant des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations. Cette approche permet de créer des groupes d'abonnés en fonction de leur engagement (de "rare" à "ultra+").
+
 ---
+
 ### 1. [Segmentation de l'audience des abonnés suivant la Ligue 1](#)
 
 <p align="center">
   <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="1000" height="300" />
 </p>
 
-## Objectif de l'analyse :
+#### Objectif de l'analyse :
 - Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 par zone géographique. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
 
-- **Compétences acquises** :
-  - [x] Analyse des comportements de visionnage par région géographique.
+#### Compétences acquises :
+  - [x] Analyse des comportements de visionnage par région.
   - [x] Utilisation de **SQL** pour segmenter les abonnés et les classer en fonction de leur consommation.
   - [x] Synthèse des résultats pour les équipes marketing et métiers.
   - [x] Création de graphiques et visualisations pour représenter l'engagement selon les territoires.
 
-### Outils utilisés :
+#### Outils utilisés :
 - SQL, Excel, Power BI, PowerPoint
 
 ---
+
 ### 2. [Segmentation des abonnés visionnant la Ligue des Champions via Dataiku](#)
 
 <p align="center">
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="1000" height="300" />
 </p>
 
-## Objectif de l'analyse :
-- L'objectif de cette analyse est de segmenter les abonnés en fonction de leur **consommation des matchs de la Champions League (CL)**. En fonction du comportement de visionnage, nous avons créé des groupes d'abonnés (de "rare" à "ultra+") pour mieux comprendre leur engagement et adapter les actions marketing.
-  
-- Grâce à cette segmentation, nous pouvons identifier les abonnés les plus fidèles et proposer des offres personnalisées pour maximiser leur satisfaction tout en réduisant le churn (désabonnement).
+#### Objectif de l'analyse :
+- L'objectif de cette analyse est de segmenter les abonnés en fonction de leur **consommation des matchs de la Ligue des Champions (CL)**. En fonction du comportement de visionnage, nous avons créé des groupes d'abonnés (de "rare" à "ultra+") pour mieux comprendre leur engagement et adapter les actions marketing.
 
-- **Compétences acquises** :
+#### Compétences acquises :
   - [x] Maîtrise des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations par saison.
   - [x] Création d'un modèle de **segmentation des abonnés** basé sur la durée de consommation.
   - [x] Synthèse des résultats pour les équipes marketing afin de **cibler les actions** en fonction du segment.
   - [x] Automatisation des processus d'analyse via **Dataiku**.
 
-### Outils utilisés :
-Python, SQL, Power BI, Dataiku, Excel
+#### Outils utilisés :
+- Python, SQL, Power BI, Dataiku, Excel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](#)
