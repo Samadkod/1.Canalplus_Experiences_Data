@@ -171,7 +171,7 @@ Automatisation de l'extraction des données de match (dates, équipes, scores) p
   - [x] Extraction et transformation des données via API et Pandas
   - **Insight** : Création de tableaux de bord pour un suivi des performances en direct.
 
-**Outils** : Python, Requests, Dataiku
+**Outils**: Python, Requests, Dataiku
 
 ---
 
