@@ -13,29 +13,23 @@
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
 
-## 🔧 Compétences techniques :
-- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Data Quality | Gestion des données massives (Big Data)
-
 ---
-
-# Projets professionnels.
-
 # Segmentation des Audiences Sportives
 
 <p align="center">
-  <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="400" height="150" />
+  <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="400" height="150" style="margin-right: 20px;" />
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="400" height="150" />
 </p>
 
 ## Introduction
 
-Ce projet regroupe deux analyses de segmentation d'audience pour deux compétitions majeures, la **Ligue 1** et la **Ligue des Champions**. Bien que les objectifs soient similaires — comprendre les comportements de visionnage pour adapter les stratégies marketing — la méthode de segmentation varie entre les deux analyses.
+Ce projet présente deux analyses de segmentation d'audience pour des compétitions emblématiques : la **Ligue 1** et la **Ligue des Champions**. Ces analyses offrent des perspectives uniques sur les habitudes de visionnage, permettant de mieux adapter les stratégies de contenu et de fidélisation.
 
-- **Ligue 1** : Segmentations basées principalement sur des critères géographiques sans recourir aux calculs d'écarts-types.
-- **Ligue des Champions** : Segmentation plus détaillée, incluant des opérations d'agrégation pour calculer la moyenne et l'écart-type des consommations. Cette approche permet de créer des groupes d'abonnés en fonction de leur engagement (de "rare" à "ultra+").
+- **Ligue 1** : Segmentation structurée selon des critères définis par les experts métiers, donnant un aperçu précis des préférences régionales.
+
+- **Ligue des Champions** : Une approche plus approfondie, intégrant des calculs d'agrégation, comme l’écart-type des consommations, pour une segmentation fine des comportements de visionnage.
 
 ---
-
 ### 1. [Segmentation de l'audience des abonnés suivant la Ligue 1](#)
 
 <p align="center">
@@ -73,6 +67,17 @@ Ce projet regroupe deux analyses de segmentation d'audience pour deux compétiti
 
 #### Outils utilisés :
 - Python, SQL, Power BI, Dataiku, Excel
+
+
+
+
+
+
+
+
+## 🔧 Compétences techniques :
+- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Data Quality | Gestion des données massives (Big Data)
+
 
 
 
