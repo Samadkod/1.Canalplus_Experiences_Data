@@ -102,165 +102,124 @@ SQL, Excel, Python, PowerPoint
 ---
 
 ### 4. [Analyse de la Performance de la Nuit Bonus en Afrique](#)
-- L'objectif de ce projet était d'évaluer la performance des émissions de la **Nuit Bonus**, diffusées en live et en rediffusion, afin de mieux comprendre l'engagement de l'audience.
+L’analyse de la **Nuit Bonus** a permis de décoder les habitudes d’audience en live et en rediffusion afin d’optimiser les futures stratégies de diffusion.
 
 <p align="center">
   <img src="https://image.over-blog.com/njENmfOTRObRazbfCP8sfwn6DOA=/filters:no_upscale()/image%2F2132870%2F20230920%2Fob_ba7f44_lb190923-06.JPG" width="1000" height="300" />
 </p>
 
-- **Competences** 
-  - [x] Manipulation de grandes bases de données(Nettoyage et gestions d'anomalie, gestion des doublons et incoherences, des valeurs aberrantes , ainsi que des données manquantes)
-  - [x] Calcul du **taux de reach global** et par KPI (formules d'abonnement, pays et chaînes).
-  - [x] Identification des forces et axes d'amélioration pour les futures stratégies de diffusion.
-  - [x] Génération de graphiques adaptés aux types de données
-  - [x] Synthèse des résultats à destination des métiers
-        
-  - **Résultat** : Optimisation des stratégies de diffusion en identifiant les sous titres ou les periodes les plus engageantes.
- 
-### Outils utilisés :
-SQL, Excel, Python, Power BI, PowerPoint.
+- **Compétences clés** :
+  - [x] Nettoyage et gestion de grandes bases de données
+  - [x] Calcul du taux de reach global et par KPI (abonnement, pays, chaînes)
+  - [x] Graphiques adaptés aux données pour une meilleure lecture des résultats
+  - **Résultat** : Des recommandations pour ajuster les contenus selon les périodes et les préférences identifiées.
+  
+**Outils** : SQL, Excel, Python, Power BI, PowerPoint
 
 ---
+
 ### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](#)
-- Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
+Compréhension de l'impact du Ramadan sur l’audience en analysant les chaînes islamiques, avec des insights stratégiques sur la consommation saisonnière.
 
 <p align="center">
   <img src="https://www.madeforyou-agency.com/medias/jpg/02.canal__international_map_iphone.jpg" width="1000" height="300" />
 </p>
 
-**Competences et résultats clés** :
-- [x] Analyse de la **part d'audience** et du **taux de reach** des chaînes islamiques via des requêtes **SQL**.
-- [x] Détection des variations d'audience en fonction des périodes (Ramadan et hors-Ramadan).
-- [x] Insight sur les habitudes de consommation pendant les saisons religieuses.
+- **Compétences et résultats** :
+  - [x] Analyse de la part d’audience et reach par SQL
+  - [x] Identification des pics de consommation durant le Ramadan
+  - **Insight** : Adaptation des stratégies selon les saisons religieuses pour un engagement optimal.
 
 ---
 
 ### 6. [Évaluation de la Performance des Chaînes Partenaires](#)
-- Ce projet visait à identifier les contenus les plus performants sur les plateformes partenaires de Canal+ , en se basant sur les données d'audience et établir un classement des cinq meilleurs contenus
+Classement des contenus les plus performants pour optimiser l’offre sur les plateformes partenaires de Canal+.
 
 <p align="center">
   <img src="https://images.frandroid.com/wp-content/uploads/2022/12/canal-disney-paramount-1.jpg" width="1000" height="300" />
 </p>
 
-- **Compétences et resultats** :
-  - [x] Identification des meilleurs contenus par plateforme, permettant de mieux comprendre les préférences des utilisateurs.
-    - [x] Analyse d’audience par plateforme.
-    - [x] optimisation des stratégies de contenu.
-          
-  - **Résultat** : Amélioration de la stratégie de contenu sur les plateformes partenaires grâce à l’identification des meilleures émissions.
+- **Compétences et résultats** :
+  - [x] Classement des meilleurs contenus par plateforme
+  - **Résultat** : Recommandations de contenu pour renforcer l’offre et fidéliser les utilisateurs.
 
 ---
 
-## 7. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
-- Ce projet portait sur l'évaluation de l'impact des créations originales de Canal+ sur les abonnés des **DROM** (Départements et Régions d'Outre-Mer).
+### 7. [Analyse de la Performance des Créations Originales de Canal+ dans les DROM](#)
+Évaluation de l’impact des créations originales dans les DROM pour comprendre l’engagement spécifique de ces audiences.
 
 <p align="center">
   <img src="https://thumb.canalplus.pro/bran/unsafe/460x259/filters:quality(80)/image/65534d24a663c/uploads/media/myCANAL_16x9_Logotype_MEA_1920x1080_label.jpg" width="1000" height="300" />
 </p>
 
-- Dans le cadre de mon stage, nous avions pour objectif de mesurer l'impact des créations originales de Canal+ sur les abonnés des DROM. Pour cela, nous avons utilisé des techniques d'extraction et d'analyse de données via SQL, complétées par des visualisations en Python, en nous concentrant particulièrement sur le taux de Reach par contenu.
+- **Compétences clés** :
+  - [x] Analyse du reach par contenu
+  - **Résultat** : Recommandations pour renforcer l’attrait des créations originales dans les DROM.
 
-### Compétences :
-
-  - [x] Analyse de l'impact des contenus originaux sur le comportement des consommateurs.
-    - [x] Mesure de l'effet des créations originales sur l'engagement des abonnés dans les DROM.
-    - [x] Mise en avant du **taux de reach** par contenu original.
-  - [x] Génération de graphiques adaptés aux types de données
-  - [x] Synthèse des résultats à destination des métiers
-
-### Outils utilisés :
-SQL, Excel, Python, PowerPoint
+**Outils** : SQL, Excel, Python, PowerPoint
 
 ---
 
-### 8. [Extraction du calendrier des matchs de l'Euro 2024, de la ligue 1, du MMA-FC et NBA via l'API Football Data](#)
+### 8. [Extraction du calendrier des matchs de l'Euro 2024, de la Ligue 1, du MMA-FC et NBA via l'API Football Data](#)
+Automatisation de l'extraction des données de match (dates, équipes, scores) pour des analyses en temps réel.
 
 <p align="center">
   <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-05/240509-nba-game-ch-1311-f72588.jpg" width="1000" height="300" />
 </p>
 
-## Objectif de l'analyse :
-- Cette analyse a pour objectif de récupérer automatiquement les **données des matchs de la NBA ou de l'Euro 2024** via l'API Football Data. Nous avons extrait des informations clés comme les **dates de matchs**, **équipes participantes**, et **scores** pour créer un dataset exploitable à des fins d'analyse et de visualisation.
-  
-  En exploitant ces données en temps réel, il est possible de créer des tableaux de bord pour suivre les performances des équipes ou détecter des tendances de jeu pendant le tournoi.
+- **Compétences** :
+  - [x] Extraction et transformation des données via API et Pandas
+  - **Insight** : Création de tableaux de bord pour un suivi des performances en direct.
 
-- **Compétences acquises** :
-  - [x] Récupération des données via une API avec une clé d'authentification.
-  - [x] Utilisation de **Pandas** pour transformer et organiser les données de manière efficace.
-  - [x] Manipulation des données temporelles (séparation des dates et heures).
-  - [x] Intégration et stockage des données dans un dataset Dataiku pour des analyses futures.
-
-### Outils utilisés :
-Python, Requests, Dataiku
+**Outils** : Python, Requests, Dataiku
 
 ---
 
 ### 9. [Classification des abonnés de la Ligue 1 selon leur consommation](#)
+Segmentation des abonnés de la Ligue 1 en trois groupes pour mieux cibler les stratégies de fidélisation.
 
 <p align="center">
   <img src="https://www.ariase.com/uploads/media/ac1027b89a8b7c11ea60700da77ae9f30282368f.jpeg" width="1000" height="300" />
 </p>
 
-## Objectif de l'analyse :
-- L'objectif de ce projet est de **classer les abonnés de la Ligue 1** selon leur niveau de consommation, en tenant compte des saisons 2022/2023 et 2023/2024. Cette segmentation permet de distinguer trois catégories d'abonnés : **faible**, **moyen**, et **haut**, en fonction du temps passé à visionner les matchs.
-  
-En analysant la consommation totale des abonnés, nous pouvons mieux comprendre leur engagement et **cibler les actions marketing** pour améliorer la rétention, notamment pour ceux ayant un engagement faible.
+- **Compétences** :
+  - [x] Classification des abonnés selon leur durée de consommation
+  - **Résultat** : Identification des segments pour des actions marketing adaptées.
 
-- **Compétences acquises** :
-  - [x] Utilisation de **Pandas** pour appliquer des règles de classification sur les abonnés.
-  - [x] Segmentation en fonction de la durée totale de consommation des abonnés.
-  - [x] Traitement des données via Dataiku et export des résultats pour des analyses futures.
-
-### Outils utilisés :
-SQL, Python, Dataiku
+**Outils** : SQL, Python, Dataiku
 
 ---
+
 ### 10. [Rapports de performances consolidées OTT|SAT via la conso sur myCANAL dans Dataiku](#)
+Automatisation des rapports de performance pour les abonnés OTT et SAT en centralisant la consommation sur myCANAL.
 
 <p align="center">
   <img src="https://thumb.canalplus.pro/http/unsafe/1344x756/smart/creativemedia-image.canalplus.pro/content/0001/51/39a60c958216bca5cbbb627771daa47bdf18a8ba.png" width="1000" height="300" />
 </p>
 
-## Objectif de l'analyse :
-- Ce projet vise à **automatiser la génération de rapports de performances** consolidées pour les abonnés OTT/SAT, en incluant la consommation sur **myCANAL**.
-- L’objectif est d'extraire automatiquement les abonnés actifs par région chaque semaine, de **lundi à dimanche**, pour fournir une vue d'ensemble des performances de la semaine précédente.
+- **Compétences** :
+  - [x] Extraction automatisée et tableau de bord dynamique par zone géographique
+  - **Résultat** : Rapports hebdomadaires simplifiés et diffusés automatiquement aux équipes.
 
-Chaque lundi, les abonnés actifs sont comptabilisés par zone géographique, et un **tableau de bord dynamique** permet de visualiser ces performances de manière interactive. Les équipes métiers reçoivent automatiquement les rapports consolidés via un envoi programmé.
-
-- **Compétences acquises** :
-  - [x] Création de requêtes SQL pour extraire automatiquement les données des abonnés actifs par région.
-  - [x] Développement de **dashboards dynamiques** pour suivre les performances par zone géographique.
-  - [x] Programmation de l'envoi automatique des rapports hebdomadaires aux équipes métiers via Dataiku.
-
-### Outils utilisés :
-SQL, Dataiku, Dashboards interactifs
+**Outils** : SQL, Dataiku
 
 ---
+
 ### 11. [Reformatage de Code SAS en SQL et Migration vers Dataiku](#)
+Migration de processus SAS en SQL pour automatiser l'intégration des données dans Snowflake, facilitant les workflows analytiques.
 
-<p align="center"> <img src="https://cdn.prod.website-files.com/6603bc85bc604431b3053166/6633ecea792854e4f20d13bf_663160c9bd1f9397bc8fafaf_Image-2-1.png" width="1000" height="300" /> </p>
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/6603bc85bc604431b3053166/6633ecea792854e4f20d13bf_663160c9bd1f9397bc8fafaf_Image-2-1.png" width="1000" height="300" />
+</p>
 
-- **Description** :
-- L'un des principaux défis de mon stage chez Canal+ a été de reformater le code SAS existant en SQL pour faciliter une meilleure gestion et intégration des données dans Snowflake. Ce projet visait à améliorer la performance, à simplifier la gestion des données et à préparer l’automatisation des processus via Dataiku, une plateforme avancée d’analyse de données.
+- **Compétences et Résultat** :
+  - [x] Conversion de code, création de tables, automatisation des tâches
+  - **Impact** : Augmentation de l’efficacité opérationnelle via l’automatisation, libérant du temps pour des projets stratégiques.
 
-- Après la conversion du code en SQL, j'ai pris l'initiative de créer des tables adaptées dans Snowflake, optimisant ainsi la manipulation des données. Ensuite, nous avons utilisé Dataiku pour automatiser l'envoi de courriels concernant les projets d’abonnement gratuit, une tâche qui était initialement réalisée manuellement.
+**Outils** : SAS, SQL, Snowflake, Dataiku
 
-- **Compétences acquises** :
-- [x] **Reformatage de code** : Conversion du code SAS en SQL pour une intégration plus fluide dans Snowflake.
-- [x] **Création et gestion de tables** : Construction de tables adaptées pour améliorer la gestion des données dans Snowflake.
-- [x] **Automatisation des processus** : Utilisation de Dataiku pour automatiser les tâches manuelles, notamment l’envoi de courriels, ce qui a significativement amélioré l'efficacité opérationnelle.
-- **Outils utilisés** :
-- SAS pour la gestion initiale des données.
-- SQL pour la réécriture du code et la gestion des données dans Snowflake.
-- Dataiku pour l’automatisation des processus.
-  
-- **Résultat** :
-Le projet a permis une réduction des erreurs humaines et une amélioration significative de l'efficacité opérationnelle grâce à l’automatisation des tâches répétitives via Dataiku. Cela a libéré du temps pour se concentrer sur des tâches plus stratégiques au sein de l'équipe.
-
->[!NOTE]
-> Ce projet démontre l'importance de l'automatisation dans les grandes entreprises et comment la transformation des workflows peut générer des gains de productivité considérables
+---
 
 # 📊 Statistiques GitHub
 
 [![Samadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samadkod&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
