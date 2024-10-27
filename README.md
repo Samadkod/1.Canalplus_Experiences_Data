@@ -28,7 +28,7 @@
 </p>
 
 ## Objectif de l'analyse :
-- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 dans notre zones d'études. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
+- Cette analyse vise à segmenter les abonnés suivant les matchs de la Ligue 1 par zone géographique. Le but est de comprendre les comportements de visionnage, et d'ajuster les stratégies de contenu et marketing pour maximiser l'engagement et réduire le churn (désabonnement).
 
 - **Compétences acquises** :
   - [x] Analyse des comportements de visionnage par région géographique.
