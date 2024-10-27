@@ -9,12 +9,12 @@
 - 🚀 Actuellement à la recherche d'un **CDI en tant que Data Analyst**
 
 ### 🌟 Quelques points forts :
-- Expertise en **analyse de données** et **modélisation prédictive** pour optimiser la prise de décision
+- Solides compétences en **analyse de données** et **modélisation prédictive** pour optimiser la prise de décision
 - Solides compétences en **gestion des données massives (Big Data)** et **qualité des données**
 - Passionné par l’utilisation des données pour des **insights stratégiques** et des **solutions innovantes**
 
 ### 🔗 Découvrir mes projets :
-Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour explorer des analyses de performance de matchs de Ligue 1, des applications de machine learning et bien plus !
+Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour explorer des analyses de performance, des applications de machine learning et bien plus !
 
 ## 📬 Contactez-moi :
 <p align='left'>
@@ -38,7 +38,8 @@ Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour expl
   <img src="https://img.shields.io/badge/Big%20Data-282A2E?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data">
 </p>
 
-
+---
+# 🚀 Projets Professionnels
 ---
 # Segmentation des Audiences Sportives
 
