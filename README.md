@@ -13,6 +13,10 @@
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
 
+## 🔧 Compétences techniques :
+- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Data Quality | Gestion des données massives (Big Data)
+
+
 ---
 # Segmentation des Audiences Sportives
 
@@ -67,34 +71,6 @@ Ce projet présente deux analyses de segmentation d'audience pour des compétiti
 
 #### Outils utilisés :
 - Python, SQL, Power BI, Dataiku, Excel
-
-
-
-
-
-
-
-
-## 🔧 Compétences techniques :
-- Python | SQL | Machine Learning | R | SAS | Visualisation de données (Power BI, Tableau, Dataiku) | Modélisation prédictive | Data Quality | Gestion des données massives (Big Data)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 ### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](#)
