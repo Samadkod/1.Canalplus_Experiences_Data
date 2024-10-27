@@ -1,19 +1,26 @@
 # ![Samadkod](https://github.com/Samadkod/Samadkod/blob/main/twitter-min.jpg) 
 
-# Bonjour, je suis Samad KODON ! Bienvenue sur mon profil GitHub 👋
+# Bonjour, je suis **Samad KODON** ! Bienvenue sur mon profil GitHub 👋
 
-- 🔭 **Data Analyst & Scientist | Python | SQL | Data Visualisation & Machine Learning**
-- 🎓 *Major de promotion - Big Data & Data Science à l'Université de Montpellier*
-- 🎓 *Master en Quantification et Analyse Économique à l'université de Franche-comté*
-- 🔍 **Actuellement à la recherche d'un CDI en tant que Data Analyst.**
+### 🔭 **Data Analyst & Scientist | Python | SQL | Data Visualisation & Machine Learning**
 
-## Connexion :
+- 🎓 **Major de promotion - Big Data & Data Science** - Université de Montpellier
+- 🎓 **Master en Quantification et Analyse Économique** - Université de Franche-Comté
+- 🚀 Actuellement à la recherche d'un **CDI en tant que Data Analyst**
+
+### 🌟 Quelques points forts :
+- Expertise en **analyse de données** et **modélisation prédictive** pour optimiser la prise de décision
+- Solides compétences en **gestion des données massives (Big Data)** et **qualité des données**
+- Passionné par l’utilisation des données pour des **insights stratégiques** et des **solutions innovantes**
+
+### 🔗 Découvrir mes projets :
+Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour explorer des analyses de performance de matchs de Ligue 1, des applications de machine learning et bien plus !
+
+## 📬 Contactez-moi :
 <p align='left'>
   <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
-
-
 
 ## 🔧 Compétences techniques
 
