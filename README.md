@@ -142,7 +142,7 @@ L’analyse de la **Nuit Bonus** a permis de décoder les habitudes d’audience
 ---
 
 ### 5. [Analyse d'Audience des Chaînes Islamiques de Canal+ en Afrique](#)
-Compréhension de l'impact du Ramadan sur l’audience en analysant les chaînes islamiques, avec des insights stratégiques sur la consommation saisonnière.
+Dans ce projet, l'objectif était de comprendre l'impact du Ramadan sur l'audience des chaînes islamiques, en comparant les comportements de visionnage pendant et en dehors du mois sacré.
 
 <p align="center">
   <img src="https://www.madeforyou-agency.com/medias/jpg/02.canal__international_map_iphone.jpg" width="1000" height="300" />
@@ -189,10 +189,12 @@ Automatisation de l'extraction des données de match (dates, équipes, scores) p
 <p align="center">
   <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-05/240509-nba-game-ch-1311-f72588.jpg" width="1000" height="300" />
 </p>
-
-- **Compétences** :
-  - [x] Extraction et transformation des données via API et Pandas
-  - **Insight** : Création de tableaux de bord pour un suivi des performances en direct.
+ 
+- **Compétences acquises** :
+  - [x] Récupération des données via une API avec une clé d'authentification.
+  - [x] Utilisation de **Pandas** pour transformer et organiser les données de manière efficace.
+  - [x] Manipulation des données temporelles (séparation des dates et heures).
+  - [x] Intégration et stockage des données dans un dataset Dataiku pour des analyses futures.
 
 **Outils**: Python, Requests, Dataiku
 
