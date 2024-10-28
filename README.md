@@ -41,7 +41,7 @@ Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour expl
 ---
 # 🚀 Projets Professionnels
 ---
-# Segmentation des Audiences Sportives
+# Segmentation des Audiences Sportives ( 1 & 2)
 
 <p align="center">
   <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="400" height="150" style="margin-right: 20px;" />
