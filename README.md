@@ -43,8 +43,11 @@ Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour expl
 ---
 # Segmentation des Audiences Sportives ( 1 & 2)
 
-<p align="center">
+<p align="left">
   <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="400" height="150" style="margin-right: 20px;" />
+  </p>
+
+  <p align="right">
   <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="400" height="150" />
 </p>
 
