@@ -272,6 +272,7 @@ SQL, Dataiku, Dashboards interactifs
 - [x] **Reformatage de code** : Conversion du code SAS en SQL pour une intégration plus fluide dans Snowflake.
 - [x] **Création et gestion de tables** : Construction de tables adaptées pour améliorer la gestion des données dans Snowflake.
 - [x] **Automatisation des processus** : Utilisation de Dataiku pour automatiser les tâches manuelles, notamment l’envoi de courriels, ce qui a significativement amélioré l'efficacité opérationnelle.
+      
 - **Outils utilisés** :
 - SAS pour la gestion initiale des données.
 - SQL pour la réécriture du code et la gestion des données dans Snowflake.
