@@ -1,10 +1,5 @@
 # Segmentation des Audiences Sportives ( 1 & 2)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://www.press-agrum.com/wp-content/uploads/2024/04/pressagrum-logo-liguefeat.jpg" width="400" height="150" alt="Ligue 1 Logo" style="margin-right: 20px;" />
-  <img src="https://www.lyoncapitale.fr/wp-content/uploads/2014/12/523400-ez-Logo-Ligue-des-Champions.jpg" width="400" height="150" alt="Ligue des Champions Logo" />
-</div>
-
 ## Introduction
 
 Ce projet présente deux analyses de segmentation d'audience pour des compétitions emblématiques : la **Ligue 1** et la **Ligue des Champions**. Ces analyses offrent des perspectives uniques sur les habitudes de visionnage, permettant de mieux adapter les stratégies de contenu et de fidélisation.
