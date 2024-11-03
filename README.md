@@ -18,7 +18,7 @@ Jetez un œil à mes projets sur [GitHub](https://github.com/Samadkod) pour expl
 
 ## 📬 Contactez-moi :
 <p align='left'>
-  <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/skodon/"><img height="24" src="https://github.com/Samadkod/Canalplus_Experiences_Data/blob/main/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:samadou.kodon@gmail.com"><img height="24" src="https://github.com/Samadkod/Samadkod/blob/main/envelope-alt.png" alt="Email"></a>
 </p>
 
