@@ -48,7 +48,7 @@ Ce projet présente deux analyses de segmentation d'audience pour des compétiti
 - Python, SQL, Power BI, Dataiku, Excel
 
 ---
-### 3. [Prédiction de churn des abonnés Canal+ selon leur consommation TV](#)
+### 3. [Prédiction de churn des abonnés selon leur consommation TV](#)
 
 <p align="center">
   <img src="https://dezyre.gumlet.io/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png?w=800&dpr=1.0" width="1000" height="300" />
