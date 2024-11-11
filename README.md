@@ -17,7 +17,7 @@ Ce projet présente deux analyses de segmentation d'audience pour des compétiti
 #### Compétences acquises :
   - [x] Analyse des comportements de visionnage par région.
   - [x] Utilisation de **SQL** pour segmenter les abonnés et les classer en fonction de leur consommation.
-  - [x] Synthèse des résultats pour les équipes marketing et métiers.
+  - [x] Synthèse des résultats pour les équipes métiers (Marketing et Data)
   - [x] Création de graphiques et visualisations pour représenter l'engagement selon les territoires.
 
 #### Outils utilisés :
