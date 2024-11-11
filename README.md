@@ -4,10 +4,6 @@
 
 Ce projet présente deux analyses de segmentation d'audience pour des compétitions emblématiques : la **Ligue 1** et la **Ligue des Champions**. Ces analyses offrent des perspectives uniques sur les habitudes de visionnage, permettant de mieux adapter les stratégies de contenu et de fidélisation.
 
-- **Ligue 1** : Segmentation structurée selon des critères définis par les experts métiers, donnant un aperçu précis des préférences régionales.
-
-- **Ligue des Champions** : Une approche plus approfondie, intégrant des calculs d'agrégation, comme l’écart-type des consommations, pour une segmentation fine des comportements de visionnage.
-
 ---
 ### 1. [Segmentation de l'audience des abonnés suivant la Ligue 1](#)
 
